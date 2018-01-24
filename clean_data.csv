@@ -1,0 +1,1132 @@
+"","id","enfant","dconsultation","age_h","diplome_h","bmi_h","patho_h","cryptorchidie","spermo","age_f","diplome_f","bh_f","ct_f","patho_f","fecondite","duree_infertilite"
+"1",2707,"1","18/04/2000",33,"Bac+",27.166447911,"non","Non","normal",34,"Bac+","normal","ovulation","non","primaire",38
+"2",2955,"1","11/03/2003",42,"Bac-",22.204081633,"non","Non","anormal",30,"Bac","normal","ovulation","non","primaire",16
+"3",3801,"1","24/08/2004",45,"Bac+",26.794938017,"non","Non","anormal",29,"Bac+","normal","ovulation","non","secondaire",10
+"4",5816,"0","17/04/2001",36,"Bac+",18.612244898,"non","Non","anormal",38,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",60
+"5",12933,"0","18/08/2004",32,"Bac",24.158817969,"non","Non","azoo",30,"Bac+","normal","ovulation","non","secondaire",6
+"6",98353,"0","23/12/2003",31,"Bac+",22.222222222,"chimioth<e9>rapie","Non","anormal",28,"Bac+","anormal","ovulation","non","secondaire",63
+"7",110947,"0","08/11/2001",30,"Bac+",25.147415886,"non","Non","azoo",27,"Bac+","normal","anovulation","pb tubaire unilat<e9>ral","primaire",24
+"8",111141,"0","10/04/2002",32,"Bac-",21.20099137,"non","Non","azoo",33,"Bac-","normal","ovulation","non","primaire",48
+"9",111758,"0","17/05/2001",44,"Bac-",29.320987654,"non","Non","anormal",45,"Bac-","normal","ovulation","non","secondaire",24
+"10",111967,"0","30/03/2000",39,"Bac-",32.407407407,"non","Non","anormal",32,"Bac+","anormal","dysovulation","non","primaire",60
+"11",112472,"0","14/03/2000",29,"Bac",22.662708672,"non","Non","normal",27,"Bac","normal","ovulation","non","primaire",60
+"12",112779,"1","27/01/2000",31,"Bac+",21.967120181,"autre","Non","anormal",30,"Bac-","normal","ovulation","non","secondaire",24
+"13",112798,"1","18/01/2000",38,"Bac",26.472107438,"non","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",20
+"14",112890,"0","21/03/2000",37,"Bac+",22.839506173,"non","Non","anormal",43,"Bac+","normal","ovulation","non","primaire",24
+"15",112903,"1","27/08/2001",37,"Bac-",34.198556821,"autre","Oui","anormal",30,"Bac-","normal","ovulation","non","primaire",60
+"16",112933,"0","08/02/2000",36,"Bac-",25.180785124,"non","Non","normal",28,"Bac+","normal","ovulation","non","secondaire",24
+"17",112974,"1","23/02/2000",39,"Bac-",19.591836735,"autre","Non","normal",34,"Bac-","normal","ovulation","non","secondaire",36
+"18",112995,"1","17/02/2000",28,"Bac-",22.321428571,"autre","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",18
+"19",113055,"0","23/05/2002",39,"Bac+",32.950680272,"non","Non","anormal",38,"Bac+","normal","anovulation","non","secondaire",24
+"20",113071,"1","06/03/2000",33,"Bac-",23.323418064,"non","Non","normal",32,"Bac-","normal","ovulation","non","primaire",48
+"21",113101,"0","17/05/2000",45,"Bac",29.068773298,"non","Non","normal",39,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",36
+"22",113103,"0","17/05/2000",60,"Bac-",26.722872521,"chimioth<e9>rapie","Non","anormal",36,"Bac-","normal","ovulation","non","secondaire",12
+"23",113107,"0","28/03/2000",47,"Bac-",27.636054422,"autre","Non","normal",36,"Bac+","normal","ovulation","non","secondaire",20
+"24",113109,"1","15/02/2000",35,"Bac-",32.314335554,"non","Non","anormal",28,"Bac","normal","ovulation","non","primaire",48
+"25",113112,"0","02/01/2000",28,"Bac+",20.528921628,"autre","Non","normal",27,"Bac+","normal","dysovulation","non","primaire",36
+"26",113115,"1","24/02/2000",31,"Bac+",34.626038781,"non","Non","normal",28,"Bac+","normal","ovulation","non","primaire",36
+"27",113116,"1","04/01/2000",26,"Bac+",22.857142857,"non","Non","anormal",34,"Bac-","normal","anovulation","non","secondaire",12
+"28",113118,"0","04/01/2000",33,"Bac",24.151672503,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",45
+"29",113124,"0","06/01/2000",26,"Bac-",23.082542001,"non","Non","azoo",26,"Bac+","anormal","dysovulation","non","primaire",12
+"30",113131,"0","04/04/2000",34,"Bac",23.355636915,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",60
+"31",113135,"1","20/01/2000",38,"Bac+",24.622960911,"non","Non","normal",38,"Bac-","normal","ovulation","non","secondaire",50
+"32",113158,"0","13/01/2000",38,"Bac-",24.82,"non","Non","anormal",33,"Bac","anormal","ovulation","non","primaire",26
+"33",113161,"1","12/01/2000",32,"Bac+",26.12244898,"non","Non","azoo",28,"Bac-","normal","ovulation","non","primaire",30
+"34",113163,"1","12/01/2000",34,"Bac+",23.808690172,"autre","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",18
+"35",113186,"0","17/01/2000",28,"Bac-",30.679327977,"non","Non","azoo",23,"Bac+","normal","ovulation","non","primaire",24
+"36",113194,"1","30/03/2000",39,"Bac-",31.020408163,"autre","Oui","azoo",36,"Bac-","normal","ovulation","non","secondaire",36
+"37",113199,"0","18/01/2000",31,"Bac+",20.37037037,"autre","Non","anormal",28,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",30
+"38",113204,"1","23/02/2000",38,"Bac-",23.510204082,"non","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",10
+"39",113206,"0","20/01/2000",34,"Bac-",32.421875,"autre","Oui","azoo",30,"Bac-","normal","ovulation","non","primaire",36
+"40",113208,"1","20/01/2000",45,"Bac+",26.173832551,"non","Non","normal",25,"Bac-","normal","ovulation","non","secondaire",24
+"41",113210,"1","20/01/2000",32,"Bac-",23.243801653,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",18
+"42",113225,"0","24/01/2000",37,"Bac",22.634676324,"non","Non","normal",28,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","primaire",42
+"43",113240,"1","27/01/2000",36,"Bac-",32.111952407,"non","Non","normal",37,"Bac","normal","ovulation","non","secondaire",120
+"44",113241,"1","27/01/2000",33,"Bac+",27.131411791,"autre","Non","azoo",32,"Bac-","normal","ovulation","non","primaire",48
+"45",113243,"1","08/03/2000",33,"Bac+",24.82,"non","Non","anormal",31,"Bac-","anormal","anovulation","non","primaire",24
+"46",113247,"1","31/01/2000",26,"Bac+",22.985397512,"non","Non","anormal",27,"Bac+","normal","ovulation","endom<e9>triose","primaire",13
+"47",113263,"0","02/02/2000",27,"Bac-",29.054752066,"autre","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",36
+"48",113267,"1","02/02/2000",31,"Bac+",24.221453287,"non","Non","normal",32,"Bac+","normal","ovulation","autre","primaire",24
+"49",113269,"1","02/02/2000",29,"Bac+",24.93372049,"non","Non","anormal",31,"Bac+","anormal","dysovulation","endom<e9>triose","primaire",15
+"50",113292,"0","09/02/2000",36,"Bac+",23.120623596,"non","Non","normal",40,"Bac+","anormal","ovulation","non","secondaire",60
+"51",113299,"0","10/02/2000",40,"Bac-",29.760862715,"pathologies respiratoire chroniques","Non","anormal",29,"Bac-","normal","ovulation","non","primaire",50
+"52",113304,"0","22/05/2000",31,"Bac-",39.376087421,"autre","Non","azoo",30,"Bac","normal","ovulation","non","primaire",24
+"53",113306,"0","14/02/2000",37,"Bac-",27.08415907,"non","Non","anormal",37,"Bac","normal","dysovulation","non","secondaire",9
+"54",113319,"1","14/02/2000",29,"Bac-",24.092970522,"non","Non","anormal",26,"Bac+","normal","dysovulation","non","secondaire",12
+"55",113321,"0","15/02/2000",48,"Bac-",27.471707128,"non","Non","anormal",38,"Bac-","normal","ovulation","non","secondaire",18
+"56",113329,"0","15/02/2000",39,"Bac+",24.816326531,"non","Non","anormal",40,"Bac+","anormal","ovulation","non","secondaire",36
+"57",113341,"0","21/02/2000",35,"Bac-",26.175194521,"non","Oui","anormal",34,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",48
+"58",113343,"0","30/03/2000",44,"Bac+",28.027681661,"non","Non","normal",36,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","primaire",24
+"59",113355,"1","22/02/2000",36,"Bac+",21.266540643,"autre","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",24
+"60",113356,"1","22/02/2000",32,"Bac-",26.729927495,"non","Non","normal",33,"Bac-","normal","dysovulation","non","secondaire",48
+"61",113358,"0","23/02/2000",47,"Bac",28.680111098,"non","Non","anormal",38,"Bac","normal","ovulation","non","secondaire",60
+"62",113371,"1","24/02/2000",32,"Bac+",25.978679566,"non","Non","normal",30,"Bac+","normal","ovulation","non","secondaire",48
+"63",113391,"1","29/02/2000",29,"Bac+",24.82,"non","Non","anormal",21,"Bac-","normal","ovulation","non","primaire",48
+"64",113396,"1","01/03/2000",36,"Bac-",24.91349481,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",24
+"65",113399,"0","01/03/2000",33,"Bac-",28.719723183,"non","Non","anormal",33,"Bac-","anormal","dysovulation","autre","secondaire",96
+"66",113413,"1","06/03/2000",40,"Bac",24.056934746,"autre","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",18
+"67",113422,"1","06/03/2000",31,"Bac-",33.02946228,"non","Non","normal",31,"Bac","normal","dysovulation","non","primaire",48
+"68",113435,"1","08/03/2000",37,"Bac+",24.82,"non","Non","normal",36,"Bac+","normal","ovulation","non","secondaire",36
+"69",113436,"1","08/03/2000",33,"Bac+",21.952479339,"non","Non","normal",26,"Bac+","normal","ovulation","non","primaire",24
+"70",113440,"1","08/03/2000",32,"Bac+",21.798202395,"non","Non","anormal",32,"Bac+","normal","dysovulation","non","primaire",48
+"71",113443,"1","08/03/2000",31,"Bac+",22.093170054,"non","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",18
+"72",113460,"1","13/03/2000",29,"Bac",24.307243559,"non","Non","anormal",24,"Bac+","normal","ovulation","non","primaire",24
+"73",113463,"1","13/03/2000",33,"Bac-",26.880934989,"non","Non","normal",27,"Bac-","anormal","ovulation","non","primaire",22
+"74",113476,"0","14/03/2000",33,"Bac-",20.177148524,"non","Non","normal",29,"Bac+","normal","ovulation","non","primaire",36
+"75",113486,"0","15/03/2000",33,"Bac-",21.971335857,"non","Non","normal",36,"Bac-","anormal","anovulation","non","secondaire",1.8
+"76",113489,"1","15/03/2000",31,"Bac-",22.694018932,"non","Non","anormal",31,"Bac+","normal","anovulation","non","primaire",24
+"77",113543,"0","16/05/2000",39,"Bac-",20.281233099,"non","Oui","anormal",29,"Bac-","anormal","dysovulation","non","primaire",120
+"78",113544,"1","27/03/2000",37,"Bac+",23.148148148,"non","Non","anormal",36,"Bac","normal","anovulation","non","secondaire",18
+"79",113585,"1","04/04/2000",35,"Bac-",22.152646503,"non","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",24
+"80",113591,"0","05/04/2000",35,"Bac-",30.421849648,"non","Non","normal",29,"Bac+","normal","ovulation","non","primaire",48
+"81",113606,"0","05/04/2000",29,"Bac-",29.938271605,"hodgkin , chimioth<e9>rapie , radioth<e9>rapie","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",9
+"82",113608,"0","06/04/2000",39,"Bac-",23.959094229,"non","Non","anormal",43,"Bac","normal","ovulation","non","primaire",6
+"83",113628,"1","24/05/2000",36,"Bac+",22.724403484,"non","Non","anormal",35,"Bac-","anormal","ovulation","non","secondaire",60
+"84",113630,"0","12/04/2000",46,"Bac-",20.820939917,"non","Non","anormal",38,"Bac-","normal","ovulation","non","primaire",12
+"85",113654,"1","17/04/2000",28,"Bac+",29.320987654,"non","Oui","anormal",30,"Bac","normal","dysovulation","non","primaire",18
+"86",113672,"0","19/04/2000",28,"Bac",24.515595463,"non","Oui","anormal",27,"Bac+","normal","anovulation","non","primaire",12
+"87",113673,"0","19/04/2000",33,"Bac-",24.618103775,"non","Non","normal",27,"Bac-","normal","ovulation","non","secondaire",15
+"88",113676,"0","17/05/2000",36,"Bac+",19.031141869,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",11
+"89",113678,"1","20/04/2000",34,"Bac+",26.729927495,"non","Non","anormal",36,"Bac+","normal","ovulation","non","primaire",18
+"90",113698,"1","26/06/2000",34,"Bac-",24.30248706,"non","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",24
+"91",113701,"1","24/05/2000",35,"Bac+",25,"non","Non","normal",33,"Bac+","normal","dysovulation","non","primaire",48
+"92",113702,"1","29/05/2000",30,"Bac+",23.510204082,"non","Oui","anormal",29,"Bac+","normal","ovulation","non","secondaire",42
+"93",113705,"1","21/06/2000",24,"Bac+",22.857142857,"non","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",24
+"94",113708,"0","26/04/2000",39,"Bac+",27.763429752,"autre","Non","anormal",37,"Bac-","normal","ovulation","non","secondaire",18
+"95",113710,"1","27/04/2000",29,"Bac+",20.199469764,"non","Non","anormal",31,"Bac","normal","ovulation","non","primaire",28
+"96",113721,"0","02/05/2000",37,"Bac+",24.30248706,"non","Oui","azoo",33,"Bac+","anormal","dysovulation","non","primaire",54
+"97",113723,"0","02/05/2000",28,"Bac",23.413111342,"autre","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",15
+"98",113724,"1","02/05/2000",26,"Bac",22.30547056,"non","Non","normal",25,"Bac+","normal","ovulation","non","primaire",24
+"99",113741,"1","29/06/2000",34,"Bac-",23.323418064,"non","Non","normal",32,"Bac-","anormal","ovulation","non","primaire",36
+"100",113746,"0","04/05/2000",31,"Bac+",21.799445105,"autre","Non","anormal",39,"Bac","normal","ovulation","non","primaire",16
+"101",113760,"0","10/05/2000",31,"Bac+",23.999459167,"autre","Oui","anormal",30,"Bac","normal","ovulation","non","primaire",18
+"102",113763,"0","10/05/2000",39,"Bac",24.441802087,"non","Non","anormal",33,"Bac-","anormal","ovulation","non","secondaire",12
+"103",113765,"1","10/05/2000",39,"Bac-",23.138507104,"non","Non","normal",35,"Bac-","normal","ovulation","non","secondaire",36
+"104",113785,"0","15/05/2000",32,"Bac",23.67125363,"non","Non","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"105",113792,"0","16/05/2000",41,"Bac+",26.989619377,"non","Non","normal",31,"Bac","normal","ovulation","non","secondaire",36
+"106",113799,"1","17/05/2000",31,"Bac+",24.729279467,"non","Non","anormal",36,"Bac+","normal","ovulation","non","primaire",24
+"107",113805,"1","18/05/2000",28,"Bac-",48.828125,"non","Oui","azoo",30,"Bac-","normal","ovulation","non","primaire",48
+"108",113807,"1","18/05/2000",35,"Bac-",23.88946281,"non","Oui","anormal",30,"Bac","normal","ovulation","non","secondaire",96
+"109",113830,"1","23/05/2000",43,"Bac+",24.858365129,"non","Oui","anormal",34,"Bac+","normal","ovulation","non","secondaire",3
+"110",113832,"0","24/05/2000",36,"Bac+",24.618103775,"non","Non","anormal",34,"Bac+","anormal","ovulation","non","primaire",18
+"111",113833,"0","09/08/2000",40,"Bac",24.382716049,"non","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",120
+"112",113840,"1","25/05/2000",36,"Bac+",22.839506173,"non","Non","normal",34,"Bac-","normal","ovulation","non","primaire",48
+"113",113851,"0","13/02/2001",26,"Bac+",19.895928987,"autre","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",30
+"114",113856,"1","29/05/2000",32,"Bac-",22.204081633,"non","Non","anormal",30,"Bac+","anormal","dysovulation","endom<e9>triose","secondaire",36
+"115",113862,"1","30/05/2000",34,"Bac+",22.038567493,"non","Non","normal",35,"Bac+","anormal","dysovulation","non","primaire",12
+"116",113893,"0","06/06/2000",30,"Bac+",25.464010865,"sinusites chroniques","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",22
+"117",113899,"0","12/09/2000",35,"Bac-",25.535446392,"non","Oui","anormal",32,"Bac-","normal","anovulation","non","primaire",36
+"118",113910,"0","13/06/2000",34,"Bac+",26.14927686,"non","Non","anormal",20,"Bac-","normal","ovulation","non","primaire",12
+"119",113912,"1","13/06/2000",27,"Bac",21.13271344,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",15
+"120",113920,"1","13/06/2000",29,"Bac+",23.986870345,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",12
+"121",113933,"1","14/09/2000",28,"Bac",24.82,"non","Non","normal",27,"Bac","normal","ovulation","non","primaire",24
+"122",113938,"0","15/06/2000",36,"Bac",22.222222222,"non","Non","normal",34,"Bac+","normal","dysovulation","non","secondaire",24
+"123",113948,"1","20/06/2000",30,"Bac+",22.229061934,"autre","Non","anormal",29,"Bac+","normal","anovulation","non","primaire",144
+"124",113952,"1","21/06/2000",34,"Bac-",22.582709172,"autre","Non","normal",31,"Bac+","normal","ovulation","non","primaire",18
+"125",113961,"1","21/06/2000",29,"Bac",24.82,"non","Non","anormal",30,"Bac-","normal","ovulation","non","primaire",36
+"126",113977,"0","21/06/2000",48,"Bac-",20.679012346,"non","Non","anormal",37,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",90
+"127",113980,"0","22/06/2000",27,"Bac-",26.297577855,"non","Non","anormal",24,"Bac+","normal","ovulation","non","primaire",24
+"128",113981,"1","27/05/2000",51,"Bac+",29.667971216,"autre","Non","normal",33,"Bac","anormal","ovulation","non","secondaire",24
+"129",113989,"1","26/06/2000",34,"Bac-",25.180785124,"non","Non","anormal",32,"Bac","normal","anovulation","non","primaire",20
+"130",113990,"0","26/06/2000",35,"Bac-",25.180785124,"non","Non","azoo",41,"Bac-","normal","ovulation","non","secondaire",30
+"131",113991,"1","26/06/2000",32,"Bac-",23.108434579,"non","Non","normal",30,"Bac-","normal","ovulation","non","secondaire",18
+"132",114002,"1","27/06/2000",35,"Bac-",25.826446281,"non","Non","anormal",36,"Bac-","normal","ovulation","non","primaire",120
+"133",114013,"1","27/06/2000",29,"Bac-",25.880570635,"non","Non","anormal",25,"Bac","anormal","ovulation","non","primaire",36
+"134",114041,"0","29/06/2000",47,"Bac+",23.374726077,"autre","Non","azoo",31,"Bac+","anormal","anovulation","non","primaire",12
+"135",114044,"0","28/06/2000",30,"Bac",24.074074074,"non","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",12
+"136",114060,"0","04/07/2000",37,"Bac-",26.989619377,"non","Non","anormal",33,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"137",114061,"0","04/07/2000",32,"Bac+",26.061679308,"non","Non","anormal",36,"Bac-","anormal","ovulation","non","secondaire",36
+"138",114077,"1","05/07/2000",29,"Bac-",22.375679951,"non","Non","normal",26,"Bac-","anormal","dysovulation","non","primaire",24
+"139",114097,"1","11/07/2000",32,"Bac-",25.432685956,"non","Oui","anormal",32,"Bac","normal","ovulation","non","secondaire",36
+"140",114105,"0","03/04/2002",48,"Bac+",23.388686558,"autre","Non","anormal",34,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",24
+"141",114112,"1","07/09/2000",31,"Bac+",24.382716049,"non","Oui","anormal",33,"Bac-","normal","ovulation","non","primaire",8
+"142",114120,"1","13/07/2000",32,"Bac-",24.158817969,"non","Non","normal",34,"Bac+","normal","ovulation","non","primaire",18
+"143",114135,"1","21/08/2000",28,"Bac+",28.086260331,"non","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",18
+"144",114143,"0","20/11/2000",29,"Bac+",23.148148148,"non","Oui","anormal",33,"Bac-","normal","ovulation","non","secondaire",30
+"145",114157,"1","19/09/2000",29,"Bac-",25.592209981,"sinusites chroniques","Non","anormal",27,"Bac+","normal","dysovulation","non","secondaire",36
+"146",114158,"0","27/09/2000",46,"Bac+",20.716105372,"autre","Non","anormal",41,"Bac+","normal","ovulation","non","secondaire",12
+"147",114175,"1","09/08/2000",30,"Bac+",21.224489796,"autre","Non","normal",30,"Bac+","normal","ovulation","non","primaire",14
+"148",114178,"1","09/08/2000",29,"Bac+",23.939480992,"non","Oui","anormal",25,"Bac+","normal","ovulation","non","primaire",12
+"149",114180,"1","09/08/2000",29,"Bac",24.441802087,"autre","Non","normal",26,"Bac-","anormal","anovulation","non","primaire",48
+"150",114183,"1","10/08/2000",25,"Bac+",22.724403484,"non","Oui","anormal",27,"Bac","normal","dysovulation","non","secondaire",3
+"151",114186,"0","10/08/2000",33,"Bac-",24.691358025,"chimioth<e9>rapie , radioth<e9>rapie","Non","azoo",26,"Bac","normal","ovulation","non","secondaire",36
+"152",114199,"1","16/08/2000",33,"Bac-",27.700831025,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",60
+"153",114201,"1","16/08/2000",32,"Bac-",21.453287197,"non","Non","anormal",36,"Bac","normal","ovulation","non","secondaire",42
+"154",114225,"1","22/08/2000",31,"Bac+",23.986870345,"non","Non","normal",42,"Bac-","normal","ovulation","non","primaire",12
+"155",114229,"1","22/08/2000",30,"Bac+",23.529411765,"non","Non","anormal",29,"Bac+","normal","ovulation","non","secondaire",24
+"156",114231,"0","22/08/2000",29,"Bac+",23.510204082,"non","Non","anormal",31,"Bac+","anormal","ovulation","non","primaire",18
+"157",114234,"1","30/08/2000",41,"Bac",25.08286303,"non","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",60
+"158",114260,"1","29/08/2000",30,"Bac-",22.839506173,"non","Oui","anormal",31,"Bac-","normal","ovulation","non","primaire",13
+"159",114261,"1","30/08/2000",36,"Bac-",25.059307027,"non","Non","azoo",31,"Bac-","normal","ovulation","non","primaire",108
+"160",114263,"0","30/08/2000",50,"Bac-",23.407509129,"non","Non","anormal",45,"Bac-","normal","ovulation","non","secondaire",36
+"161",114271,"0","04/09/2000",50,"Bac-",21.146319909,"pathologies respiratoire chroniques","Non","azoo",34,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"162",114272,"1","04/09/2000",37,"Bac-",22.491349481,"non","Non","anormal",33,"Bac-","anormal","ovulation","non","primaire",18
+"163",114276,"1","04/09/2000",28,"Bac-",30.243261012,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",24
+"164",114278,"1","04/09/2000",31,"Bac-",20.983987603,"non","Non","anormal",32,"Bac","normal","ovulation","non","primaire",18
+"165",114289,"1","21/11/2000",28,"Bac-",23.924858223,"non","Oui","azoo",34,"Bac+","normal","ovulation","non","primaire",18
+"166",114303,"1","11/09/2000",30,"Bac-",20.061728395,"autre","Non","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"167",114305,"1","11/09/2000",28,"Bac+",25.464010865,"non","Non","normal",36,"Bac","normal","dysovulation","non","primaire",24
+"168",114316,"1","14/11/2000",34,"Bac",23.183673469,"non","Non","normal",30,"Bac+","normal","ovulation","non","primaire",27
+"169",114323,"1","12/09/2000",30,"Bac",26.234567901,"sinusites chroniques","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",24
+"170",114324,"0","12/09/2000",34,"Bac-",22.343515593,"non","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",120
+"171",114325,"0","12/01/2000",36,"Bac+",24.82,"non","Non","anormal",37,"Bac+","normal","ovulation","non","secondaire",48
+"172",114331,"1","13/09/2000",23,"Bac",25.689561925,"non","Oui","azoo",26,"Bac+","normal","ovulation","non","primaire",12
+"173",114335,"1","04/12/2000",33,"Bac+",19.868517166,"non","Non","normal",32,"Bac+","normal","dysovulation","non","primaire",12
+"174",114341,"0","14/09/2000",31,"Bac+",22.024322513,"non","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",12
+"175",114352,"1","18/09/2000",33,"Bac+",23.67125363,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",15
+"176",114354,"1","18/09/2000",30,"Bac+",25.951557093,"non","Non","normal",29,"Bac+","normal","ovulation","non","primaire",15
+"177",114368,"1","19/12/2000",36,"Bac-",24.755464316,"non","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",18
+"178",114373,"0","21/09/2000",45,"Bac+",17.283950617,"non","Non","normal",40,"Bac+","normal","ovulation","non","secondaire",12
+"179",114384,"0","09/10/2000",25,"Bac-",22.835009828,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",36
+"180",114389,"0","26/09/2000",38,"Bac-",23.255018638,"non","Non","normal",35,"Bac+","normal","ovulation","non","secondaire",60
+"181",114393,"0","26/09/2000",30,"Bac+",25.963047941,"non","Non","anormal",34,"Bac+","normal","anovulation","non","primaire",18
+"182",114394,"0","26/09/2000",29,"Bac",26.297577855,"non","Non","azoo",29,"Bac-","normal","ovulation","non","primaire",48
+"183",114405,"0","28/09/2000",25,"Bac-",20.047445621,"non","Non","azoo",24,"Bac-","normal","ovulation","non","primaire",12
+"184",114412,"1","28/09/2000",30,"Bac+",23.938989775,"non","Non","anormal",31,"Bac","normal","ovulation","non","secondaire",12
+"185",114423,"1","02/10/2000",36,"Bac+",36.678200692,"non","Non","anormal",33,"Bac+","normal","dysovulation","autre","secondaire",48
+"186",114426,"0","02/10/2000",33,"Bac+",24.337479719,"non","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",12
+"187",114429,"0","02/10/2000",33,"Bac-",25.711662075,"autre","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",36
+"188",114441,"0","04/10/2000",29,"Bac+",25.880570635,"non","Non","normal",27,"Bac+","normal","anovulation","non","primaire",24
+"189",114461,"1","10/10/2000",32,"Bac+",22.16066482,"non","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",30
+"190",114465,"1","10/10/2000",51,"Bac-",21.612811791,"non","Non","anormal",36,"Bac+","normal","ovulation","non","secondaire",48
+"191",114470,"0","11/10/2000",37,"Bac-",25.712198685,"non","Non","azoo",27,"Bac+","normal","ovulation","non","primaire",36
+"192",114472,"1","11/10/2000",30,"Bac",23.76641014,"autre","Non","normal",30,"Bac-","normal","ovulation","non","secondaire",24
+"193",114473,"0","11/10/2000",34,"Bac+",24.212293388,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",48
+"194",114477,"1","11/10/2000",26,"Bac+",26.296566837,"non","Oui","azoo",33,"Bac+","normal","ovulation","non","primaire",10
+"195",114486,"1","12/10/2000",29,"Bac-",26.296566837,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",13
+"196",114489,"0","12/10/2000",35,"Bac+",31.817378349,"non","Non","normal",37,"Bac+","normal","ovulation","non","secondaire",18
+"197",114490,"0","12/10/2000",38,"Bac+",23.510204082,"non","Non","anormal",36,"Bac","normal","ovulation","non","primaire",48
+"198",114505,"0","17/10/2000",36,"Bac+",19.75308642,"non","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",24
+"199",114510,"1","18/10/2000",27,"Bac+",24.82,"non","Non","anormal",31,"Bac+","normal","anovulation","non","primaire",24
+"200",114512,"1","18/10/2000",34,"Bac-",24.82,"non","Non","normal",38,"Bac-","normal","ovulation","non","secondaire",18
+"201",114521,"0","19/10/2000",33,"Bac-",28.73174689,"non","Non","anormal",29,"Bac-","normal","ovulation","non","secondaire",48
+"202",114524,"1","29/11/2000",35,"Bac+",25.381468542,"autre","Non","normal",34,"Bac+","normal","ovulation","non","secondaire",26
+"203",114527,"1","23/10/2000",34,"Bac+",24.691358025,"autre","Oui","normal",35,"Bac+","normal","ovulation","non","secondaire",36
+"204",114528,"1","23/10/2000",29,"Bac+",22.205989774,"non","Non","normal",28,"Bac+","normal","ovulation","non","primaire",26
+"205",114545,"1","26/10/2000",40,"Bac+",24.653739612,"non","Non","normal",34,"Bac+","anormal","ovulation","non","primaire",18
+"206",114549,"0","26/10/2000",32,"Bac-",24.677021338,"non","Non","azoo",25,"Bac-","normal","ovulation","non","primaire",12
+"207",114556,"1","24/10/2000",29,"Bac-",19.252619619,"non","Non","normal",28,"Bac-","normal","ovulation","non","secondaire",36
+"208",114563,"0","07/11/2000",37,"Bac",23.040020199,"non","Non","anormal",31,"Bac+","normal","dysovulation","autre","secondaire",36
+"209",114566,"1","30/10/2000",27,"Bac-",23.939480992,"non","Non","azoo",28,"Bac-","normal","ovulation","non","primaire",18
+"210",114573,"0","31/10/2000",38,"Bac-",28.405337561,"non","Non","anormal",33,"Bac","normal","ovulation","non","secondaire",24
+"211",114574,"0","06/04/2001",42,"Bac-",22.038567493,"non","Non","anormal",29,"Bac-","normal","ovulation","non","primaire",48
+"212",114578,"0","31/10/2000",33,"Bac+",26.566839754,"sinusites chroniques","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",18
+"213",114601,"1","07/11/2000",30,"Bac-",26.643598616,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",30
+"214",114612,"1","20/12/2000",40,"Bac-",24.489795918,"non","Non","normal",30,"Bac+","normal","anovulation","non","secondaire",36
+"215",114615,"1","08/11/2000",30,"Bac-",24.968009738,"non","Non","normal",33,"Bac-","normal","ovulation","non","secondaire",72
+"216",114624,"0","13/11/2000",39,"Bac-",29.402920245,"autre","Non","anormal",32,"Bac-","normal","anovulation","endom<e9>triose","primaire",48
+"217",114638,"0","14/11/2000",32,"Bac-",24.074074074,"non","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",36
+"218",114646,"1","15/11/2000",25,"Bac+",22.530612245,"non","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",24
+"219",114648,"1","16/11/2000",38,"Bac-",24.489795918,"non","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",24
+"220",114672,"1","21/11/2000",31,"Bac-",28.408184111,"non","Non","normal",27,"Bac-","normal","dysovulation","non","primaire",36
+"221",114678,"0","22/11/2000",31,"Bac",24.725182933,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",24
+"222",114680,"0","22/11/2000",28,"Bac-",24.816326531,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",29
+"223",114686,"1","23/11/2000",29,"Bac+",24.725182933,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",18
+"224",114692,"0","23/11/2000",32,"Bac-",24.419279021,"autre","Non","azoo",31,"Bac+","normal","ovulation","non","primaire",24
+"225",114693,"1","10/01/2001",40,"Bac+",23.374726077,"non","Oui","anormal",33,"Bac","normal","ovulation","non","primaire",24
+"226",114700,"0","28/11/2000",34,"Bac+",23.140495868,"non","Non","anormal",44,"Bac+","normal","ovulation","non","primaire",18
+"227",114703,"1","28/11/2000",30,"Bac-",26.315789474,"non","Non","anormal",37,"Bac-","normal","ovulation","non","primaire",18
+"228",114707,"0","29/11/2000",36,"Bac",25.951557093,"autre","Non","azoo",32,"Bac","normal","ovulation","non","primaire",18
+"229",114723,"1","04/12/2000",29,"Bac-",23.120623596,"pathologies respiratoire chroniques","Non","anormal",24,"Bac-","normal","ovulation","non","secondaire",12
+"230",114735,"1","05/12/2000",43,"Bac+",22.343515593,"autre","Non","anormal",37,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"231",114737,"0","05/12/2000",32,"Bac+",23.291229956,"non","Non","azoo",29,"Bac-","normal","ovulation","non","secondaire",12
+"232",114738,"1","05/12/2000",37,"Bac+",27.732299776,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",12
+"233",114745,"1","06/12/2000",28,"Bac+",25.925925926,"non","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",12
+"234",114748,"0","06/12/2000",35,"Bac-",29.384756657,"non","Non","anormal",36,"Bac-","normal","ovulation","non","primaire",18
+"235",114751,"1","07/12/2000",33,"Bac+",27.755102041,"non","Non","anormal",31,"Bac+","anormal","ovulation","non","primaire",18
+"236",114752,"0","07/12/2000",42,"Bac-",22.985397512,"non","Non","normal",35,"Bac","normal","ovulation","non","primaire",36
+"237",114766,"1","11/12/2000",33,"Bac-",27.102040816,"non","Non","anormal",31,"Bac-","normal","ovulation","non","primaire",48
+"238",114776,"0","13/12/2000",26,"Bac",19.57633309,"non","Oui","anormal",26,"Bac+","normal","anovulation","non","primaire",36
+"239",114782,"1","14/12/2000",32,"Bac+",22.129739728,"non","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",24
+"240",114788,"0","18/12/2000",42,"Bac-",22.309356409,"non","Non","normal",29,"Bac-","normal","ovulation","autre","secondaire",36
+"241",114816,"1","11/01/2001",32,"Bac+",21.604938272,"non","Non","normal",36,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","secondaire",12
+"242",114819,"1","19/02/2001",31,"Bac-",33.05785124,"non","Non","anormal",29,"Bac-","normal","ovulation","non","primaire",72
+"243",114820,"1","03/01/2001",47,"Bac+",28.326974217,"non","Non","azoo",30,"Bac+","anormal","ovulation","non","secondaire",24
+"244",114823,"1","03/01/2001",31,"Bac+",22.877405702,"non","Oui","anormal",34,"Bac","normal","ovulation","non","secondaire",42
+"245",114828,"1","04/01/2001",28,"Bac+",23.711844631,"sinusites chroniques","Oui","anormal",27,"Bac+","anormal","dysovulation","autre","primaire",18
+"246",114839,"1","08/01/2001",27,"Bac-",24.82,"non","Non","anormal",20,"Bac-","anormal","anovulation","autre","secondaire",30
+"247",114841,"0","08/01/2001",30,"Bac+",28.055705787,"non","Non","anormal",30,"Bac-","normal","ovulation","non","primaire",55
+"248",114847,"1","23/07/2001",28,"Bac+",24.307243559,"non","Non","normal",26,"Bac+","normal","ovulation","non","primaire",30
+"249",114848,"1","08/01/2001",36,"Bac+",29.068773298,"non","Non","normal",36,"Bac+","normal","ovulation","hydrosalpinx","primaire",60
+"250",114852,"0","09/01/2001",35,"Bac+",30.598530127,"autre","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",30
+"251",114863,"1","09/01/2001",30,"Bac+",29.036737786,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",48
+"252",114869,"0","10/01/2001",31,"Bac+",25.661152035,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",24
+"253",114870,"1","10/01/2001",35,"Bac+",18.424036281,"non","Non","normal",34,"Bac+","normal","dysovulation","non","primaire",18
+"254",114874,"1","10/01/2001",34,"Bac+",25.308641975,"non","Non","azoo",35,"Bac","normal","ovulation","non","primaire",24
+"255",114877,"0","11/01/2001",39,"Bac",24.835646457,"autre","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",50
+"256",114879,"1","11/01/2001",35,"Bac+",20.571428571,"non","Non","normal",30,"Bac","normal","dysovulation","non","primaire",24
+"257",114884,"1","05/02/2001",36,"Bac+",24.049343594,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",20
+"258",114887,"1","15/01/2001",39,"Bac-",28.042816593,"non","Non","normal",29,"Bac","normal","ovulation","non","primaire",36
+"259",114892,"1","15/01/2001",40,"Bac+",22.038567493,"sinusites chroniques","Non","azoo",34,"Bac+","normal","ovulation","non","primaire",36
+"260",114896,"0","15/01/2001",36,"Bac-",19.04507334,"autre","Non","anormal",41,"Bac","normal","ovulation","non","primaire",48
+"261",114898,"0","15/01/2001",38,"Bac",22.981901752,"non","Non","normal",35,"Bac+","anormal","dysovulation","non","primaire",96
+"262",114899,"0","16/01/2001",27,"Bac-",24.221453287,"non","Oui","anormal",23,"Bac","normal","anovulation","non","primaire",36
+"263",114900,"0","16/01/2001",36,"Bac-",26.297577855,"autre","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",24
+"264",114909,"1","18/01/2001",37,"Bac+",21.971335857,"non","Non","anormal",32,"Bac-","normal","ovulation","non","primaire",20
+"265",114910,"1","18/01/2001",42,"Bac-",26.12244898,"non","Non","normal",32,"Bac","normal","ovulation","non","secondaire",18
+"266",114912,"0","18/01/2001",25,"Bac-",22.839506173,"non","Oui","anormal",27,"Bac","normal","ovulation","non","primaire",36
+"267",114920,"1","18/01/2001",28,"Bac-",25.165146272,"non","Non","anormal",27,"Bac-","normal","ovulation","non","primaire",20
+"268",114926,"0","20/04/2001",35,"Bac+",20.745069394,"non","Oui","normal",28,"Bac+","normal","ovulation","non","primaire",18
+"269",114930,"0","22/01/2001",34,"Bac",23.986870345,"non","Non","anormal",27,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","primaire",30
+"270",114948,"1","25/01/2001",33,"Bac+",24.489795918,"non","Non","normal",34,"Bac+","normal","ovulation","non","primaire",36
+"271",114952,"0","29/01/2001",38,"Bac+",24.056934746,"non","Non","normal",35,"Bac+","normal","dysovulation","endom<e9>triose","primaire",12
+"272",114963,"0","30/01/2001",37,"Bac",24.977043159,"non","Non","normal",33,"Bac","normal","ovulation","non","primaire",36
+"273",114965,"1","30/01/2001",37,"Bac-",28.666129177,"non","Non","normal",30,"Bac+","normal","ovulation","non","secondaire",16
+"274",114966,"1","22/02/2001",31,"Bac+",22.222222222,"non","Non","normal",30,"Bac+","normal","anovulation","pb tubaire unilat<e9>ral","secondaire",24
+"275",114984,"1","15/10/2001",28,"Bac+",20.549886621,"non","Non","normal",26,"Bac+","normal","ovulation","non","primaire",24
+"276",114990,"0","05/02/2001",33,"Bac",23.124060585,"non","Non","normal",29,"Bac","normal","dysovulation","non","primaire",18
+"277",115002,"0","09/05/2001",33,"Bac-",26.303618915,"non","Non","normal",33,"Bac-","normal","ovulation","non","primaire",24
+"278",115010,"1","05/11/2001",27,"Bac-",25.925925926,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",12
+"279",115020,"1","13/02/2001",32,"Bac-",29.761904762,"non","Non","normal",28,"Bac+","normal","ovulation","non","primaire",30
+"280",115041,"1","20/02/2001",37,"Bac+",25.990903184,"non","Non","normal",31,"Bac","normal","dysovulation","non","secondaire",60
+"281",115042,"1","20/02/2001",31,"Bac-",17.715419501,"autre","Non","anormal",26,"Bac","normal","ovulation","non","primaire",30
+"282",115044,"0","20/02/2001",35,"Bac",23.456790123,"diab<e8>te","Non","anormal",35,"Bac","normal","ovulation","non","primaire",60
+"283",115045,"0","20/02/2001",32,"Bac-",31.7417889,"non","Non","anormal",29,"Bac","normal","anovulation","non","primaire",60
+"284",115048,"1","20/02/2001",32,"Bac",27.170631566,"non","Non","anormal",28,"Bac-","normal","ovulation","non","secondaire",36
+"285",115050,"1","21/02/2001",47,"Bac+",26.014568158,"non","Non","normal",30,"Bac-","normal","ovulation","non","secondaire",84
+"286",115060,"1","02/10/2001",32,"Bac-",23.875432526,"non","Non","anormal",27,"Bac-","normal","ovulation","non","primaire",72
+"287",115062,"0","22/02/2001",36,"Bac-",20.987654321,"non","Non","normal",36,"Bac-","normal","ovulation","non","secondaire",12
+"288",115071,"0","26/02/2001",31,"Bac+",25.099501596,"non","Non","anormal",32,"Bac+","anormal","ovulation","non","primaire",24
+"289",115078,"0","27/02/2001",34,"Bac+",30.422967864,"non","Non","azoo",39,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"290",115087,"0","27/02/2001",35,"Bac-",27.757487217,"non","Non","anormal",30,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"291",115090,"1","28/02/2001",41,"Bac+",22.129739728,"autre","Non","normal",34,"Bac+","normal","ovulation","non","primaire",28
+"292",115103,"1","01/03/2001",27,"Bac-",21.84700852,"non","Non","anormal",26,"Bac","normal","dysovulation","non","primaire",48
+"293",115112,"0","01/03/2001",35,"Bac",24.801587302,"non","Non","normal",41,"Bac+","normal","ovulation","non","secondaire",24
+"294",115132,"0","09/05/2001",28,"Bac+",24.930747922,"non","Non","anormal",26,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","primaire",30
+"295",115138,"1","07/03/2001",42,"Bac-",26.19618735,"non","Non","azoo",41,"Bac","normal","ovulation","non","primaire",134
+"296",115156,"1","12/03/2001",36,"Bac+",22.839506173,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",12
+"297",115157,"0","12/03/2001",38,"Bac",25.925925926,"autre","Non","normal",36,"Bac","normal","ovulation","non","primaire",36
+"298",115159,"0","05/04/2001",30,"Bac+",25.864512472,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",36
+"299",115160,"1","13/03/2001",37,"Bac+",28.293345405,"autre","Oui","normal",32,"Bac-","normal","dysovulation","non","secondaire",120
+"300",115165,"1","13/03/2001",31,"Bac-",34.285714286,"non","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",14
+"301",115174,"0","31/05/2001",27,"Bac-",24.82,"non","Non","anormal",26,"Bac-","normal","dysovulation","non","primaire",12
+"302",115180,"1","15/03/2001",38,"Bac+",25.535446392,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",18
+"303",115184,"1","15/03/2001",37,"Bac-",24.567474048,"non","Non","normal",30,"Bac","normal","ovulation","non","primaire",18
+"304",115210,"0","21/03/2001",37,"Bac-",23.407509129,"autre","Non","normal",31,"Bac-","normal","dysovulation","non","secondaire",36
+"305",115230,"0","26/03/2001",41,"Bac+",27.6816609,"autre","Non","anormal",38,"Bac","normal","ovulation","non","secondaire",168
+"306",115237,"1","26/03/2001",36,"Bac-",21.707923392,"cancer testis , chimioth<e9>rapie","Non","anormal",30,"Bac-","normal","ovulation","non","primaire",5
+"307",115248,"1","28/03/2001",32,"Bac+",22.222222222,"non","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",6
+"308",115254,"1","21/06/2001",32,"Bac-",27.744748315,"non","Oui","anormal",25,"Bac-","anormal","dysovulation","pb tubaire unilat<e9>ral","primaire",24
+"309",115267,"0","02/04/2001",31,"Bac+",22.720438371,"non","Non","azoo",31,"Bac+","normal","ovulation","non","primaire",36
+"310",115284,"0","09/04/2001",32,"Bac",32.552083333,"autre","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",27
+"311",115286,"0","09/04/2001",34,"Bac",22.985397512,"non","Non","normal",31,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",36
+"312",115295,"1","10/04/2001",29,"Bac-",26.794938017,"sinusites chroniques","Non","anormal",28,"Bac-","normal","ovulation","non","secondaire",36
+"313",115308,"0","11/04/2001",37,"Bac+",29.387755102,"non","Non","normal",35,"Bac+","normal","dysovulation","pb tubaire unilat<e9>ral","secondaire",15
+"314",115309,"0","01/10/2001",28,"Bac-",31.7417889,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",60
+"315",115316,"0","17/04/2001",32,"Bac-",24.212293388,"non","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",27
+"316",115320,"0","18/04/2001",53,"Bac-",24.93372049,"non","Non","azoo",35,"Bac","normal","ovulation","autre","secondaire",12
+"317",115323,"0","17/04/2001",30,"Bac+",20.227025722,"non","Oui","anormal",27,"Bac+","normal","dysovulation","non","primaire",24
+"318",115330,"1","13/05/2002",32,"Bac+",19.230182229,"autre","Non","normal",33,"Bac+","normal","ovulation","non","primaire",60
+"319",115348,"0","23/04/2001",39,"Bac+",24.419279021,"non","Non","anormal",35,"Bac+","normal","dysovulation","non","secondaire",48
+"320",115351,"1","23/04/2001",49,"Bac",22.920971074,"non","Non","normal",38,"Bac-","normal","dysovulation","non","secondaire",12
+"321",115358,"1","14/06/2001",29,"Bac+",25.963047941,"non","Non","anormal",30,"Bac+","anormal","ovulation","endom<e9>triose","primaire",30
+"322",115386,"0","13/06/2001",24,"Bac+",24.163265306,"non","Non","normal",35,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","secondaire",24
+"323",115392,"0","04/07/2001",29,"Bac-",23.355636915,"non","Non","normal",24,"Bac","normal","ovulation","non","primaire",24
+"324",115395,"0","02/05/2001",31,"Bac+",25.165146272,"non","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",69
+"325",115397,"0","12/05/2001",32,"Bac+",23.666910153,"non","Oui","anormal",26,"Bac+","normal","ovulation","non","primaire",30
+"326",115405,"1","03/05/2001",29,"Bac+",25.951557093,"non","Non","normal",28,"Bac+","normal","ovulation","non","primaire",48
+"327",115412,"0","07/05/2001",31,"Bac-",25.180785124,"autre","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",48
+"328",115426,"0","29/05/2001",31,"Bac+",25.746944319,"non","Non","anormal",30,"Bac+","normal","dysovulation","non","primaire",18
+"329",115432,"1","10/05/2001",27,"Bac-",32.846606348,"non","Non","normal",31,"Bac-","normal","ovulation","non","secondaire",12
+"330",115463,"1","15/05/2001",28,"Bac+",27.102040816,"autre","Oui","azoo",25,"Bac","anormal","dysovulation","non","primaire",18
+"331",115466,"1","15/05/2001",34,"Bac+",20.679012346,"sinusites chroniques","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",30
+"332",115468,"0","15/05/2001",29,"Bac-",27.755102041,"non","Non","azoo",29,"Bac-","normal","ovulation","non","primaire",18
+"333",115471,"0","15/05/2001",34,"Bac+",20.796729894,"sinusites chroniques","Non","normal",32,"Bac+","normal","ovulation","non","secondaire",36
+"334",115485,"0","16/05/2001",24,"Bac",22.058051189,"diab<e8>te","Non","azoo",23,"Bac","normal","dysovulation","non","primaire",36
+"335",115496,"1","17/05/2001",42,"Bac-",23.040020199,"non","Non","normal",30,"Bac+","normal","dysovulation","non","secondaire",24
+"336",115499,"1","05/06/2001",35,"Bac+",26.315789474,"autre","Oui","normal",34,"Bac+","normal","ovulation","non","secondaire",36
+"337",115512,"0","21/08/2001",43,"Bac+",22.893074082,"sinusites chroniques","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",24
+"338",115518,"1","26/06/2001",32,"Bac+",25.106332703,"non","Non","normal",33,"Bac+","normal","ovulation","non","primaire",24
+"339",115519,"1","10/09/2001",37,"Bac-",23.938989775,"non","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",36
+"340",115540,"1","31/05/2001",43,"Bac-",24.391058839,"autre","Non","normal",31,"Bac","normal","dysovulation","non","secondaire",12
+"341",115550,"1","31/05/2001",35,"Bac+",28.946124764,"non","Non","normal",34,"Bac+","normal","ovulation","non","secondaire",18
+"342",115579,"1","07/06/2001",33,"Bac",25.127830533,"non","Non","anormal",36,"Bac-","normal","ovulation","non","secondaire",36
+"343",115589,"0","07/06/2001",38,"Bac",23.245984784,"non","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",24
+"344",115597,"1","07/06/2001",34,"Bac",22.309356409,"non","Non","anormal",26,"Bac+","anormal","ovulation","autre","primaire",24
+"345",115598,"1","07/06/2001",28,"Bac",18.873859704,"non","Oui","anormal",28,"Bac-","normal","ovulation","non","primaire",20
+"346",115602,"0","08/06/2001",46,"Bac",24.91349481,"non","Non","normal",33,"Bac+","normal","ovulation","non","secondaire",60
+"347",115605,"0","08/06/2000",26,"Bac+",29.263340201,"non","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",18
+"348",115607,"1","11/06/2001",26,"Bac",24.441802087,"sinusites chroniques","Oui","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"349",115608,"0","11/06/2001",30,"Bac",24.212293388,"autre","Non","anormal",27,"Bac-","normal","ovulation","non","secondaire",12
+"350",115610,"0","11/06/2001",33,"Bac+",23.388686558,"non","Non","anormal",31,"Bac+","normal","ovulation","non","secondaire",36
+"351",115615,"0","11/06/2001",38,"Bac-",28.188676206,"non","Non","anormal",38,"Bac-","normal","ovulation","non","secondaire",120
+"352",115627,"0","24/07/2001",37,"Bac+",26.234567901,"non","Non","anormal",33,"Bac+","normal","anovulation","non","secondaire",48
+"353",115641,"0","14/06/2001",32,"Bac",22.724403484,"non","Non","normal",34,"Bac","normal","ovulation","non","primaire",60
+"354",115650,"1","14/06/2001",31,"Bac+",23.057725694,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",15
+"355",115686,"1","25/06/2001",37,"Bac",24.77209671,"autre","Non","anormal",31,"Bac","normal","ovulation","non","primaire",15
+"356",115688,"0","25/06/2001",33,"Bac+",22.275309917,"non","Non","azoo",33,"Bac+","normal","ovulation","non","primaire",24
+"357",115693,"1","25/06/2001",30,"Bac-",25.990903184,"non","Oui","azoo",27,"Bac+","normal","ovulation","non","primaire",18
+"358",115695,"0","26/06/2001",58,"Bac-",24.691358025,"non","Non","azoo",32,"Bac-","normal","ovulation","non","primaire",12
+"359",115697,"1","26/06/2001",37,"Bac+",23.374726077,"non","Non","normal",36,"Bac-","normal","dysovulation","non","secondaire",36
+"360",115709,"1","27/06/2001",35,"Bac-",26.14927686,"autre","Non","normal",27,"Bac-","normal","ovulation","non","secondaire",24
+"361",115714,"0","28/06/2001",34,"Bac+",32.283057851,"non","Non","normal",34,"Bac-","normal","ovulation","non","secondaire",48
+"362",115718,"1","29/06/2001",36,"Bac+",24.489795918,"non","Non","normal",26,"Bac+","normal","dysovulation","non","primaire",12
+"363",115722,"0","29/06/2001",34,"Bac",20.478266614,"non","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",40
+"364",115723,"1","29/06/2001",32,"Bac+",20.452885318,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",48
+"365",115731,"1","03/07/2001",29,"Bac-",24.074074074,"non","Oui","anormal",30,"Bac","normal","dysovulation","non","primaire",24
+"366",115732,"1","03/07/2001",32,"Bac+",24.489795918,"non","Non","normal",35,"Bac","normal","dysovulation","autre","secondaire",36
+"367",115742,"0","04/07/2001",33,"Bac",24.801587302,"non","Non","normal",28,"Bac+","anormal","dysovulation","non","primaire",10
+"368",115744,"1","04/07/2001",32,"Bac+",23.808797045,"non","Non","azoo",27,"Bac","normal","ovulation","non","primaire",36
+"369",115746,"0","04/07/2001",32,"Bac+",25.102391333,"non","Non","normal",36,"Bac+","normal","ovulation","non","primaire",18
+"370",115756,"1","05/07/2001",27,"Bac+",21.62964876,"non","Non","anormal",19,"Bac-","normal","ovulation","non","primaire",20
+"371",115764,"0","12/09/2001",29,"Bac-",24.82,"non","Non","anormal",30,"Bac-","normal","dysovulation","autre","primaire",60
+"372",115776,"0","16/07/2001",31,"Bac+",24.419279021,"non","Non","anormal",27,"Bac-","normal","ovulation","non","secondaire",24
+"373",115778,"1","28/08/2001",36,"Bac",25.963047941,"sinusites chroniques","Non","azoo",30,"Bac-","normal","ovulation","non","primaire",24
+"374",115798,"1","11/10/2001",56,"Bac-",22.91303307,"non","Non","anormal",35,"Bac+","anormal","ovulation","non","secondaire",48
+"375",115817,"1","23/07/2001",27,"Bac-",29.737044338,"non","Non","anormal",28,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",27
+"376",115835,"0","30/07/2001",27,"Bac-",33.557947864,"non","Non","azoo",30,"Bac+","normal","ovulation","non","primaire",18
+"377",115841,"1","31/07/2001",37,"Bac-",24.489795918,"non","Non","anormal",31,"Bac+","normal","dysovulation","non","secondaire",24
+"378",115849,"0","20/09/2001",34,"Bac-",25.249337205,"autre","Oui","normal",36,"Bac","normal","ovulation","non","secondaire",30
+"379",115851,"1","07/01/2002",31,"Bac-",22.395413419,"non","Non","anormal",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",30
+"380",115853,"0","29/03/2002",32,"Bac-",26.959840342,"non","Non","azoo",26,"Bac-","normal","ovulation","non","secondaire",48
+"381",115854,"0","17/12/2001",30,"Bac",20.56932966,"non","Non","anormal",22,"Bac+","normal","ovulation","non","primaire",30
+"382",115866,"0","15/10/2001",32,"Bac-",33.690051526,"non","Oui","azoo",27,"Bac+","normal","ovulation","non","primaire",36
+"383",115872,"0","21/08/2001",38,"Bac+",28.373702422,"non","Oui","azoo",40,"Bac+","normal","ovulation","non","secondaire",12
+"384",115885,"1","27/08/2001",35,"Bac-",23.510204082,"non","Non","anormal",28,"Bac","normal","anovulation","non","primaire",48
+"385",115893,"0","28/08/2001",31,"Bac+",24.151672503,"non","Non","anormal",31,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"386",115898,"1","26/10/2001",34,"Bac",25.499131944,"non","Non","anormal",28,"Bac","normal","ovulation","non","primaire",24
+"387",115902,"0","30/08/2001",40,"Bac+",20.654142146,"non","Oui","normal",40,"Bac+","normal","ovulation","non","secondaire",24
+"388",115913,"0","31/08/2001",25,"Bac+",22.720438371,"non","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",24
+"389",115924,"0","04/09/2001",30,"Bac+",23.355636915,"non","Non","azoo",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"390",115942,"0","07/09/2001",32,"Bac-",25.059307027,"non","Non","anormal",33,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","primaire",48
+"391",115949,"1","10/09/2001",40,"Bac+",26.840610468,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"392",115951,"0","10/09/2001",38,"Bac+",22.275309917,"non","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",24
+"393",115954,"0","11/09/2001",26,"Bac-",32.314335554,"autre","Non","azoo",25,"Bac-","normal","ovulation","non","primaire",18
+"394",115960,"1","11/09/2001",36,"Bac-",23.323418064,"non","Non","azoo",23,"Bac","normal","ovulation","non","primaire",24
+"395",115965,"1","12/09/2001",36,"Bac+",20.406081012,"autre","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",18
+"396",116002,"0","09/10/2001",42,"Bac+",23.148148148,"sinusites chroniques","Oui","anormal",33,"Bac-","normal","ovulation","non","secondaire",84
+"397",116003,"1","18/09/2001",31,"Bac-",23.124060585,"non","Non","anormal",29,"Bac","normal","ovulation","non","secondaire",36
+"398",116037,"1","25/09/2001",28,"Bac",23.456790123,"non","Oui","anormal",25,"Bac","normal","ovulation","non","primaire",12
+"399",116043,"0","26/09/2001",41,"Bac-",30.778701139,"autre","Non","azoo",40,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"400",116049,"0","26/09/2001",31,"Bac-",24.221453287,"non","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",72
+"401",116064,"0","01/10/2001",33,"Bac-",23.7021621,"sinusites chroniques","Non","anormal",32,"Bac-","normal","ovulation","non","secondaire",36
+"402",116076,"1","09/10/2003",30,"Bac",26.82742078,"non","Non","normal",25,"Bac","normal","dysovulation","non","primaire",36
+"403",116086,"1","03/10/2001",28,"Bac+",24.835646457,"non","Non","anormal",27,"Bac+","normal","dysovulation","non","secondaire",12
+"404",116089,"1","03/10/2001",28,"Bac-",21.929223431,"non","Non","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"405",116099,"0","22/11/2001",28,"Bac+",29.218407597,"non","Non","azoo",32,"Bac","normal","dysovulation","non","primaire",36
+"406",116103,"1","05/10/2001",31,"Bac+",22.275309917,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",24
+"407",116115,"1","09/10/2001",29,"Bac-",25.209201358,"autre","Non","normal",23,"Bac","normal","dysovulation","non","secondaire",30
+"408",116119,"1","10/10/2001",28,"Bac+",23.301094832,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",18
+"409",116125,"0","11/10/2001",31,"Bac-",27.440599174,"non","Non","anormal",39,"Bac","normal","ovulation","non","secondaire",60
+"410",116130,"1","12/11/2001",34,"Bac+",20.303697561,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",18
+"411",116134,"1","25/10/2001",31,"Bac+",22.642192972,"non","Non","normal",27,"Bac+","normal","dysovulation","non","secondaire",18
+"412",116136,"1","12/10/2001",33,"Bac+",21.799307958,"non","Non","normal",38,"Bac+","normal","ovulation","non","primaire",18
+"413",116167,"0","17/10/2001",38,"Bac",22.790328973,"sarcome , chimioth<e9>rapie","Non","azoo",39,"Bac","normal","ovulation","non","primaire",10
+"414",116170,"1","18/03/2002",37,"Bac-",20.761245675,"non","Non","normal",33,"Bac-","normal","ovulation","non","primaire",60
+"415",116195,"0","23/10/2001",30,"Bac-",25.963047941,"autre","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",36
+"416",116213,"0","26/10/2001",36,"Bac-",21.799307958,"non","Non","anormal",33,"Bac","normal","ovulation","pb tubaire bilat<e9>ral","primaire",12
+"417",116214,"1","26/10/2001",32,"Bac+",22.159108642,"non","Non","anormal",25,"Bac","normal","anovulation","non","secondaire",24
+"418",116236,"1","31/10/2001",27,"Bac+",23.355636915,"non","Non","normal",25,"Bac+","normal","ovulation","non","primaire",24
+"419",116243,"0","05/11/2001",30,"Bac-",19.918367347,"non","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",30
+"420",116247,"1","05/11/2001",31,"Bac+",19.623233909,"autre","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",15
+"421",116249,"1","05/11/2001",32,"Bac+",20.233553012,"sinusites chroniques","Non","azoo",30,"Bac+","normal","ovulation","non","primaire",24
+"422",116254,"0","05/11/2001",43,"Bac",22.758306782,"non","Non","azoo",38,"Bac","normal","ovulation","non","secondaire",24
+"423",116257,"0","06/11/2001",35,"Bac+",24.151672503,"non","Non","anormal",36,"Bac","normal","ovulation","non","primaire",36
+"424",116261,"0","06/11/2001",36,"Bac+",20.478266614,"sinusites chroniques , pathologies respiratoire chroniques","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"425",116269,"0","08/11/2001",37,"Bac-",29.320987654,"non","Non","anormal",24,"Bac-","normal","ovulation","non","primaire",48
+"426",116276,"1","09/11/2001",39,"Bac+",21.799307958,"non","Non","normal",39,"Bac+","normal","dysovulation","non","secondaire",12
+"427",116278,"0","09/11/2001",32,"Bac+",22.694018932,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"428",116300,"1","12/11/2001",31,"Bac-",20.936639118,"non","Non","anormal",22,"Bac-","normal","ovulation","non","primaire",12
+"429",116306,"1","21/01/2002",39,"Bac+",19.605191996,"non","Non","normal",33,"Bac-","normal","dysovulation","non","secondaire",20
+"430",116332,"1","20/11/2001",29,"Bac",26.309016558,"autre","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",24
+"431",116334,"1","20/11/2001",32,"Bac+",26.794938017,"autre","Non","anormal",30,"Bac","normal","ovulation","non","primaire",24
+"432",116336,"1","20/11/2001",37,"Bac",20.069204152,"non","Oui","anormal",32,"Bac+","normal","dysovulation","non","secondaire",36
+"433",116344,"1","06/02/2002",33,"Bac-",22.038567493,"non","Non","normal",25,"Bac-","normal","ovulation","non","secondaire",36
+"434",116357,"1","22/11/2001",29,"Bac-",31.511501698,"non","Oui","anormal",29,"Bac","normal","ovulation","non","primaire",24
+"435",116364,"1","22/01/2002",41,"Bac",25.420014609,"non","Non","normal",40,"Bac","normal","ovulation","non","primaire",60
+"436",116366,"1","26/11/2001",30,"Bac+",28.400547964,"non","Non","anormal",29,"Bac+","normal","ovulation","non","secondaire",60
+"437",116378,"1","28/11/2001",27,"Bac-",20.047445621,"non","Oui","anormal",27,"Bac+","normal","anovulation","non","primaire",36
+"438",116381,"0","28/11/2001",33,"Bac+",23.661438615,"non","Non","anormal",33,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",18
+"439",116388,"1","29/11/2001",39,"Bac-",25.209201358,"non","Non","normal",30,"Bac-","anormal","dysovulation","non","primaire",72
+"440",116389,"1","29/11/2001",28,"Bac",23.836734694,"non","Non","normal",26,"Bac+","normal","ovulation","non","primaire",18
+"441",116397,"0","03/12/2001",43,"Bac+",24.898143957,"non","Non","normal",36,"Bac+","normal","ovulation","non","primaire",18
+"442",116399,"1","03/12/2001",38,"Bac-",21.295294754,"non","Oui","azoo",30,"Bac+","normal","ovulation","non","primaire",24
+"443",116401,"0","03/12/2001",34,"Bac+",22.222222222,"non","Non","anormal",33,"Bac+","anormal","ovulation","non","secondaire",30
+"444",116404,"1","04/12/2001",45,"Bac-",27.398175682,"sinusites chroniques","Non","azoo",34,"Bac-","normal","ovulation","non","primaire",96
+"445",116407,"1","04/12/2001",31,"Bac+",24.77209671,"non","Oui","normal",28,"Bac+","normal","dysovulation","non","secondaire",4
+"446",116408,"0","04/12/2001",27,"Bac-",24.489795918,"autre","Non","anormal",27,"Bac","anormal","dysovulation","non","primaire",42
+"447",116413,"1","04/12/2001",42,"Bac-",24.280975343,"non","Non","anormal",33,"Bac-","normal","ovulation","autre","primaire",24
+"448",116415,"1","05/12/2001",32,"Bac-",26.12244898,"autre","Non","anormal",35,"Bac-","normal","ovulation","non","primaire",60
+"449",116418,"0","05/12/2001",30,"Bac-",24.964946479,"non","Non","anormal",26,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",18
+"450",116420,"1","05/12/2001",28,"Bac+",23.545706371,"autre","Non","normal",29,"Bac+","normal","ovulation","non","primaire",24
+"451",116421,"0","05/12/2001",40,"Bac",21.366869143,"autre","Non","anormal",38,"Bac-","normal","ovulation","non","secondaire",20
+"452",116422,"1","05/12/2001",35,"Bac+",27.45865421,"autre","Non","azoo",27,"Bac+","normal","ovulation","non","primaire",24
+"453",116428,"0","06/12/2001",39,"Bac+",22.530612245,"autre","Non","anormal",41,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"454",116433,"1","07/12/2001",28,"Bac-",25.351541374,"non","Oui","anormal",26,"Bac","normal","ovulation","non","primaire",18
+"455",116446,"1","21/02/2002",29,"Bac-",26.296566837,"non","Non","anormal",26,"Bac","normal","ovulation","non","primaire",36
+"456",116448,"0","11/12/2001",38,"Bac+",25.451113844,"non","Non","anormal",35,"Bac-","normal","anovulation","non","primaire",120
+"457",116449,"0","11/12/2001",43,"Bac-",25.680074054,"autre","Non","azoo",37,"Bac-","normal","ovulation","non","secondaire",36
+"458",116455,"1","11/12/2001",32,"Bac",27.755102041,"non","Non","azoo",34,"Bac+","normal","ovulation","non","primaire",24
+"459",116460,"1","06/01/2002",28,"Bac+",24.221453287,"non","Non","anormal",27,"Bac+","normal","anovulation","non","primaire",12
+"460",116469,"1","13/12/2001",32,"Bac+",24.82,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",18
+"461",116470,"1","06/03/2002",33,"Bac-",24.092970522,"non","Non","anormal",31,"Bac-","normal","ovulation","non","primaire",120
+"462",116475,"1","17/12/2001",40,"Bac-",24.074074074,"non","Non","anormal",32,"Bac","normal","ovulation","non","secondaire",42
+"463",116477,"1","18/12/2001",34,"Bac+",26.277285079,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"464",116482,"0","19/12/2001",41,"Bac",23.19831507,"sinusites chroniques","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",24
+"465",116484,"0","19/12/2001",42,"Bac+",26.643598616,"non","Non","anormal",38,"Bac-","anormal","ovulation","non","primaire",14
+"466",116485,"1","19/12/2001",32,"Bac-",24.163265306,"non","Non","anormal",32,"Bac-","normal","ovulation","non","primaire",12
+"467",116490,"1","20/12/2001",27,"Bac",24.956597222,"non","Non","anormal",35,"Bac-","normal","ovulation","non","secondaire",12
+"468",116495,"0","20/12/2001",29,"Bac+",26.880934989,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",36
+"469",116506,"1","04/01/2002",27,"Bac+",26.8809517,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",18
+"470",116517,"1","08/01/2002",29,"Bac-",23.255018638,"non","Non","anormal",30,"Bac-","normal","ovulation","non","secondaire",30
+"471",116518,"1","08/01/2002",30,"Bac+",24.151672503,"autre","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",36
+"472",116526,"1","09/01/2002",30,"Bac-",25.951557093,"autre","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",18
+"473",116527,"1","09/01/2002",27,"Bac+",21.146319909,"autre","Non","anormal",27,"Bac+","normal","dysovulation","non","primaire",24
+"474",116548,"1","14/01/2002",32,"Bac-",21.87755102,"non","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",24
+"475",116554,"1","10/04/2002",32,"Bac+",21.469150482,"autre","Non","azoo",27,"Bac+","normal","anovulation","non","primaire",30
+"476",116558,"0","14/01/2002",30,"Bac-",19.37716263,"non","Non","normal",26,"Bac-","normal","ovulation","non","secondaire",36
+"477",116566,"1","19/09/2003",35,"Bac+",24.382716049,"non","Non","anormal",35,"Bac","anormal","dysovulation","non","secondaire",48
+"478",116573,"0","16/01/2002",34,"Bac+",26.287807183,"non","Non","azoo",34,"Bac-","normal","ovulation","non","secondaire",12
+"479",116581,"0","17/01/2002",49,"Bac+",25.308641975,"non","Non","normal",43,"Bac-","normal","ovulation","non","secondaire",36
+"480",116583,"1","17/01/2002",28,"Bac",26.12244898,"non","Non","anormal",28,"Bac","anormal","ovulation","pb tubaire unilat<e9>ral","primaire",18
+"481",116585,"1","18/01/2002",32,"Bac-",21.295294754,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",12
+"482",116586,"0","18/01/2002",28,"Bac-",28.734672057,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",24
+"483",116596,"0","21/01/2002",33,"Bac-",21.671258035,"autre","Non","anormal",28,"Bac-","normal","anovulation","non","secondaire",36
+"484",116603,"1","22/01/2002",26,"Bac",21.799307958,"autre","Non","anormal",25,"Bac","normal","dysovulation","non","primaire",22
+"485",116608,"0","22/01/2002",32,"Bac+",23.335466145,"non","Non","azoo",29,"Bac-","normal","ovulation","non","primaire",96
+"486",116617,"0","24/10/2002",41,"Bac",23.355636915,"non","Non","normal",31,"Bac","anormal","dysovulation","non","secondaire",34
+"487",116644,"0","29/01/2002",31,"Bac-",25.992438563,"non","Non","azoo",27,"Bac","normal","ovulation","non","primaire",3
+"488",116651,"1","20/01/2002",35,"Bac+",28.703703704,"autre","Non","anormal",25,"Bac+","normal","ovulation","non","primaire",18
+"489",116653,"1","31/01/2002",37,"Bac",19.721036968,"non","Non","normal",28,"Bac-","normal","ovulation","non","secondaire",9
+"490",116654,"1","31/01/2002",30,"Bac+",21.736505253,"non","Oui","anormal",27,"Bac+","normal","dysovulation","non","secondaire",36
+"491",116670,"0","04/02/2002",29,"Bac-",24.725182933,"non","Non","azoo",33,"Bac+","normal","ovulation","non","primaire",24
+"492",116675,"0","05/02/2002",42,"Bac+",20.281233099,"non","Non","anormal",47,"Bac+","normal","ovulation","non","secondaire",24
+"493",116681,"1","05/02/2002",31,"Bac-",24.691358025,"non","Non","anormal",29,"Bac","normal","ovulation","non","primaire",24
+"494",116683,"0","05/02/2002",31,"Bac-",26.12244898,"non","Non","azoo",28,"Bac+","normal","dysovulation","non","primaire",18
+"495",116692,"0","07/02/2002",34,"Bac+",25.617283951,"non","Non","anormal",23,"Bac+","normal","ovulation","non","primaire",84
+"496",116695,"0","07/02/2002",21,"Bac+",24.618103775,"non","Oui","anormal",24,"Bac","normal","dysovulation","non","primaire",60
+"497",116700,"1","06/02/2002",29,"Bac+",21.785875962,"non","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",18
+"498",116707,"0","06/02/2002",34,"Bac-",24.212293388,"sinusites chroniques","Non","anormal",28,"Bac","normal","anovulation","non","primaire",27
+"499",116711,"0","13/06/2002",40,"Bac+",23.148148148,"non","Non","anormal",37,"Bac+","normal","ovulation","non","primaire",60
+"500",116712,"1","08/02/2002",31,"Bac-",22.837370242,"non","Non","anormal",25,"Bac-","normal","ovulation","non","primaire",12
+"501",116716,"1","08/02/2002",29,"Bac+",27.440599174,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",36
+"502",116726,"1","11/02/2002",38,"Bac+",23.529411765,"autre","Non","anormal",36,"Bac+","normal","ovulation","non","secondaire",60
+"503",116731,"0","11/02/2002",38,"Bac",24.691358025,"non","Non","anormal",36,"Bac+","normal","ovulation","non","primaire",72
+"504",116732,"1","11/02/2002",31,"Bac+",21.672110131,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",2
+"505",116751,"1","14/02/2002",35,"Bac+",26.250724947,"autre","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",1
+"506",116760,"1","15/02/2002",32,"Bac+",20.515086479,"pathologies respiratoire chroniques","Non","normal",30,"Bac+","normal","ovulation","non","primaire",18
+"507",116774,"1","20/02/2002",29,"Bac+",26.566839754,"sinusites chroniques","Non","normal",29,"Bac+","normal","ovulation","non","primaire",36
+"508",116778,"0","21/02/2002",57,"Bac+",26.528510346,"autre","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",30
+"509",116782,"1","21/02/2002",27,"Bac-",26.878678135,"non","Non","normal",29,"Bac+","normal","anovulation","non","primaire",46
+"510",116783,"1","28/03/2002",32,"Bac-",20.061728395,"autre","Non","normal",30,"Bac+","normal","ovulation","non","primaire",18
+"511",116790,"0","25/02/2002",36,"Bac-",24.489795918,"non","Non","anormal",20,"Bac-","normal","ovulation","non","primaire",36
+"512",116804,"0","12/07/2002",33,"Bac+",22.790328973,"non","Non","normal",29,"Bac+","normal","anovulation","non","primaire",36
+"513",116810,"1","27/02/2002",35,"Bac",24.77209671,"non","Non","normal",31,"Bac","normal","ovulation","non","primaire",72
+"514",116818,"1","17/06/2002",36,"Bac-",34.107989363,"non","Non","normal",37,"Bac-","normal","dysovulation","non","secondaire",24
+"515",116823,"1","05/03/2002",30,"Bac+",29.054752066,"autre","Non","azoo",25,"Bac+","normal","ovulation","non","primaire",36
+"516",116826,"0","05/03/2002",33,"Bac+",24.332277048,"sinusites chroniques","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",24
+"517",116831,"1","05/03/2002",28,"Bac+",23.88946281,"non","Non","azoo",29,"Bac+","anormal","ovulation","non","secondaire",84
+"518",116844,"1","14/05/2002",29,"Bac",29.060607122,"non","Non","azoo",28,"Bac+","normal","ovulation","non","primaire",36
+"519",116846,"1","07/03/2002",30,"Bac-",21.798202395,"non","Non","normal",34,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",36
+"520",116867,"1","12/03/2002",30,"Bac+",24.220226843,"autre","Non","normal",27,"Bac-","normal","ovulation","non","primaire",27
+"521",116873,"0","12/03/2002",28,"Bac",22.857142857,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",36
+"522",116877,"0","13/03/2002",44,"Bac-",30.64253567,"autre","Non","azoo",39,"Bac+","normal","ovulation","non","secondaire",48
+"523",116880,"1","13/03/2002",31,"Bac-",25.469387755,"non","Non","anormal",30,"Bac","normal","ovulation","non","primaire",18
+"524",116890,"0","14/03/2002",36,"Bac-",24.158817969,"non","Non","anormal",25,"Bac","anormal","ovulation","non","primaire",30
+"525",116891,"1","14/03/2002",32,"Bac-",22.093170054,"non","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",24
+"526",116893,"1","14/03/2002",34,"Bac-",25.605536332,"non","Non","normal",40,"Bac+","normal","ovulation","non","secondaire",12
+"527",116897,"0","14/03/2002",28,"Bac",23.040020199,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"528",116915,"0","19/03/2002",38,"Bac+",22.837370242,"autre","Non","anormal",37,"Bac+","normal","ovulation","non","primaire",60
+"529",116916,"1","19/03/2002",31,"Bac+",24.151672503,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"530",116918,"1","19/03/2002",35,"Bac+",26.218820862,"non","Non","anormal",24,"Bac+","normal","ovulation","non","secondaire",6
+"531",116920,"1","19/03/2002",35,"Bac+",22.205989774,"non","Oui","anormal",26,"Bac+","normal","ovulation","non","primaire",18
+"532",116936,"1","25/03/2002",28,"Bac+",22.038567493,"non","Oui","anormal",37,"Bac-","normal","ovulation","non","secondaire",18
+"533",116940,"0","26/03/2002",38,"Bac+",23.510204082,"non","Non","anormal",38,"Bac+","normal","ovulation","non","primaire",55
+"534",116944,"0","26/03/2002",30,"Bac",27.440599174,"non","Non","azoo",26,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"535",116958,"0","28/03/2002",25,"Bac+",22.857142857,"non","Non","anormal",24,"Bac+","normal","ovulation","non","primaire",30
+"536",116967,"1","02/04/2002",39,"Bac",26.14927686,"sinusites chroniques","Non","normal",36,"Bac-","normal","ovulation","non","secondaire",48
+"537",116977,"0","04/04/2002",39,"Bac+",24.382716049,"non","Non","anormal",38,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",18
+"538",116983,"1","04/04/2002",37,"Bac-",18.591130341,"non","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",30
+"539",116986,"1","04/04/2002",39,"Bac-",33.304988662,"non","Oui","normal",31,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","secondaire",6
+"540",116989,"1","08/04/2002",33,"Bac+",22.835009828,"non","Non","anormal",33,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"541",116998,"1","02/10/2002",36,"Bac+",21.913805698,"non","Non","normal",28,"Bac+","anormal","anovulation","non","primaire",24
+"542",117002,"1","09/04/2002",29,"Bac",22.30547056,"non","Oui","normal",25,"Bac+","normal","ovulation","non","primaire",15
+"543",117010,"1","10/04/2002",33,"Bac-",20.286507912,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",15
+"544",117020,"0","11/02/2002",35,"Bac",27.143037495,"non","Non","anormal",34,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",36
+"545",117023,"1","11/04/2002",35,"Bac+",21.383941996,"autre","Non","normal",35,"Bac+","normal","ovulation","non","secondaire",6
+"546",117047,"0","03/06/2002",31,"Bac",24.187046493,"non","Oui","azoo",30,"Bac+","normal","anovulation","non","primaire",12
+"547",117060,"1","18/04/2002",47,"Bac+",24.535123967,"autre","Non","normal",39,"Bac+","normal","ovulation","non","secondaire",4
+"548",117063,"1","05/11/2002",24,"Bac",28.075042938,"non","Non","anormal",27,"Bac","normal","ovulation","non","primaire",18
+"549",117067,"0","17/05/2002",30,"Bac+",27.041644132,"non","Oui","anormal",30,"Bac+","normal","ovulation","non","secondaire",30
+"550",117068,"1","20/07/2002",46,"Bac+",22.395413419,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",48
+"551",117072,"1","23/04/2002",28,"Bac-",23.959094229,"non","Non","normal",29,"Bac-","normal","ovulation","non","secondaire",50
+"552",117119,"1","29/04/2002",31,"Bac+",27.777777778,"autre","Non","anormal",31,"Bac+","normal","dysovulation","non","primaire",18
+"553",117124,"0","30/04/2002",32,"Bac+",24.59321113,"non","Non","azoo",31,"Bac+","normal","ovulation","non","primaire",70
+"554",117127,"0","02/05/2002",35,"Bac",24.337479719,"autre","Non","anormal",30,"Bac","normal","ovulation","non","primaire",60
+"555",117136,"0","06/05/2002",27,"Bac+",23.120623596,"autre","Non","anormal",27,"Bac","normal","ovulation","non","primaire",48
+"556",117159,"1","31/10/2002",27,"Bac+",24.755464316,"non","Non","normal",27,"Bac+","normal","ovulation","non","primaire",24
+"557",117174,"0","10/07/2002",28,"Bac+",27.43484225,"non","Non","anormal",27,"Bac+","normal","dysovulation","non","primaire",27
+"558",117178,"0","17/05/2002",28,"Bac",27.08415907,"non","Oui","anormal",26,"Bac","normal","ovulation","non","primaire",12
+"559",117179,"1","17/05/2002",37,"Bac+",21.736505253,"autre","Oui","anormal",38,"Bac+","normal","ovulation","non","primaire",18
+"560",117191,"0","21/05/2002",41,"Bac-",21.967120181,"non","Non","azoo",34,"Bac-","normal","ovulation","non","primaire",100
+"561",117195,"1","22/05/2002",28,"Bac-",29.085872576,"non","Oui","anormal",28,"Bac-","normal","ovulation","non","primaire",22
+"562",117199,"1","23/05/2002",34,"Bac-",22.405876951,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"563",117208,"1","27/05/2002",36,"Bac-",22.857142857,"non","Non","azoo",24,"Bac-","normal","ovulation","non","primaire",12
+"564",117214,"1","28/05/2002",32,"Bac-",24.755464316,"non","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",120
+"565",117216,"1","28/05/2002",31,"Bac",25.499131944,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","secondaire",24
+"566",117233,"0","29/05/2002",25,"Bac-",22.14532872,"autre","Non","azoo",21,"Bac-","normal","ovulation","non","primaire",18
+"567",117239,"0","30/05/2002",38,"Bac",23.183673469,"non","Non","azoo",30,"Bac-","normal","ovulation","non","primaire",12
+"568",117254,"1","03/06/2002",30,"Bac",26.023048986,"non","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",21
+"569",117258,"0","03/06/2002",25,"Bac-",25.737081415,"autre","Non","normal",33,"Bac+","normal","ovulation","non","primaire",15
+"570",117267,"1","04/06/2002",35,"Bac-",25.617283951,"non","Non","anormal",24,"Bac-","normal","ovulation","non","primaire",66
+"571",117272,"1","05/06/2002",34,"Bac",18.518518519,"non","Non","normal",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"572",117279,"0","06/06/2002",39,"Bac+",22.819404548,"non","Non","anormal",41,"Bac","anormal","anovulation","non","primaire",18
+"573",117287,"1","07/10/2002",27,"Bac+",25.727555214,"non","Non","normal",30,"Bac-","normal","dysovulation","endom<e9>triose","primaire",18
+"574",117290,"0","07/06/2002",42,"Bac+",32.699167658,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",84
+"575",117291,"0","12/07/2002",41,"Bac+",28.721121071,"non","Oui","anormal",38,"Bac+","normal","ovulation","non","primaire",24
+"576",117300,"0","10/06/2002",42,"Bac+",21.71806609,"non","Non","normal",38,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"577",117304,"0","11/06/2002",30,"Bac",24.691358025,"non","Non","azoo",27,"Bac-","normal","ovulation","non","primaire",36
+"578",117308,"1","11/06/2002",32,"Bac+",27.717685235,"autre","Non","anormal",28,"Bac+","normal","dysovulation","non","primaire",15
+"579",117311,"1","11/06/2002",41,"Bac-",24.897060232,"non","Non","azoo",35,"Bac+","normal","ovulation","non","primaire",40
+"580",117320,"1","12/06/2002",34,"Bac+",28.405504356,"autre","Non","anormal",33,"Bac+","normal","dysovulation","non","secondaire",30
+"581",117329,"1","13/06/2002",34,"Bac",25.680074054,"non","Non","anormal",32,"Bac","anormal","ovulation","non","primaire",36
+"582",117332,"1","13/06/2002",27,"Bac+",21.967120181,"non","Non","anormal",24,"Bac+","normal","ovulation","non","primaire",12
+"583",117346,"1","17/06/2002",32,"Bac",24.67550027,"non","Oui","azoo",30,"Bac+","normal","ovulation","non","primaire",18
+"584",117353,"0","18/06/2002",38,"Bac",30.040816327,"non","Non","normal",32,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","primaire",100
+"585",117361,"0","19/06/2002",35,"Bac-",22.417480481,"non","Oui","anormal",35,"Bac+","normal","ovulation","non","primaire",150
+"586",117381,"1","21/06/2002",30,"Bac+",26.296566837,"non","Oui","anormal",29,"Bac+","normal","dysovulation","non","secondaire",24
+"587",117426,"1","03/07/2002",31,"Bac",22.309356409,"non","Non","normal",30,"Bac","normal","ovulation","non","secondaire",24
+"588",117454,"1","10/07/2002",37,"Bac-",24.489795918,"sinusites chroniques","Non","anormal",29,"Bac","normal","ovulation","non","primaire",18
+"589",117465,"1","15/07/2002",36,"Bac+",23.938989775,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",15
+"590",117467,"1","15/07/2002",33,"Bac+",25.469387755,"autre","Non","normal",29,"Bac+","normal","ovulation","non","secondaire",6
+"591",117481,"1","16/07/2002",33,"Bac",23.306680053,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",15
+"592",117484,"1","16/07/2002",45,"Bac-",25.951557093,"non","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",24
+"593",117488,"0","17/07/2002",37,"Bac+",20.619253651,"non","Non","azoo",38,"Bac+","normal","ovulation","non","primaire",21
+"594",117498,"1","18/07/2002",33,"Bac+",26.82742078,"non","Oui","normal",23,"Bac","normal","ovulation","non","secondaire",24
+"595",117504,"1","19/07/2002",37,"Bac-",20.861119661,"non","Non","azoo",32,"Bac-","normal","ovulation","non","secondaire",3
+"596",117506,"0","19/07/2002",29,"Bac+",25.207756233,"non","Oui","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"597",117510,"1","22/07/2002",29,"Bac+",21.798202395,"autre","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",15
+"598",117515,"0","22/07/2002",31,"Bac+",32.111952407,"non","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",48
+"599",117523,"0","23/07/2002",31,"Bac+",25.925925926,"non","Non","normal",35,"Bac-","anormal","dysovulation","non","primaire",48
+"600",117525,"1","23/07/2002",29,"Bac+",33.950617284,"autre","Non","azoo",30,"Bac+","normal","ovulation","non","primaire",12
+"601",117559,"1","17/09/2002",29,"Bac+",30.061278761,"non","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",33
+"602",117560,"0","01/08/2002",31,"Bac-",21.799307958,"diab<e8>te","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",24
+"603",117561,"1","01/08/2002",20,"Bac-",17.961266139,"autre","Non","anormal",20,"Bac-","normal","dysovulation","non","primaire",12
+"604",117570,"1","02/08/2002",37,"Bac-",30.421849648,"non","Non","anormal",37,"Bac-","normal","ovulation","non","secondaire",136
+"605",117580,"1","19/08/2002",43,"Bac+",35.751278025,"non","Non","azoo",40,"Bac-","normal","dysovulation","non","primaire",24
+"606",117582,"0","20/08/2002",42,"Bac+",21.604938272,"autre","Non","anormal",38,"Bac+","normal","ovulation","non","secondaire",18
+"607",117597,"1","19/11/2002",40,"Bac+",26.12244898,"non","Non","normal",32,"Bac+","normal","ovulation","non","secondaire",18
+"608",117598,"0","26/08/2002",25,"Bac-",32.421875,"non","Non","normal",35,"Bac-","normal","ovulation","non","primaire",136
+"609",117605,"1","27/08/2002",44,"Bac-",26.989619377,"non","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",30
+"610",117611,"1","27/08/2002",36,"Bac+",22.634676324,"non","Non","anormal",39,"Bac+","anormal","ovulation","non","secondaire",18
+"611",117633,"0","30/08/2002",41,"Bac-",26.794938017,"non","Non","anormal",37,"Bac","normal","ovulation","non","secondaire",72
+"612",117640,"0","02/09/2002",28,"Bac+",22.222222222,"autre","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",36
+"613",117648,"1","03/09/2002",30,"Bac",25.217358576,"non","Non","anormal",29,"Bac-","normal","ovulation","non","primaire",18
+"614",117649,"1","03/09/2002",31,"Bac-",20.515086479,"non","Non","anormal",28,"Bac+","anormal","dysovulation","non","primaire",9
+"615",117663,"0","05/09/2002",33,"Bac",23.529411765,"non","Non","azoo",30,"Bac+","normal","ovulation","non","secondaire",36
+"616",117668,"0","06/09/2002",30,"Bac+",24.4140625,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",24
+"617",117674,"1","13/10/2003",31,"Bac+",26.878678135,"non","Non","anormal",28,"Bac+","normal","ovulation","endom<e9>triose","primaire",30
+"618",117678,"1","05/11/2002",36,"Bac+",21.138855859,"non","Non","normal",35,"Bac+","normal","ovulation","non","primaire",36
+"619",117686,"1","10/09/2002",37,"Bac+",24.251278305,"non","Oui","anormal",32,"Bac+","normal","ovulation","non","secondaire",6
+"620",117700,"1","07/10/2002",25,"Bac",22.724403484,"non","Non","normal",24,"Bac+","normal","ovulation","non","primaire",18
+"621",117725,"0","16/09/2002",29,"Bac+",23.407509129,"non","Oui","azoo",26,"Bac+","normal","ovulation","non","primaire",14
+"622",117730,"0","13/10/2003",27,"Bac-",21.633315306,"non","Non","azoo",24,"Bac-","normal","ovulation","non","primaire",60
+"623",117746,"0","19/09/2002",27,"Bac-",25.351541374,"non","Non","anormal",25,"Bac","normal","ovulation","non","primaire",24
+"624",117758,"0","23/09/2002",37,"Bac-",26.874496103,"non","Oui","anormal",37,"Bac+","normal","ovulation","non","primaire",24
+"625",117760,"0","24/09/2002",34,"Bac+",22.321428571,"non","Non","azoo",28,"Bac+","normal","ovulation","non","primaire",36
+"626",117768,"1","25/09/2002",32,"Bac+",21.971335857,"autre","Non","normal",30,"Bac+","normal","ovulation","non","primaire",40
+"627",117787,"1","27/09/2002",42,"Bac-",26.218820862,"autre","Non","anormal",31,"Bac+","anormal","dysovulation","non","secondaire",72
+"628",117790,"1","30/09/2002",31,"Bac-",27.041644132,"non","Non","normal",30,"Bac-","normal","ovulation","non","primaire",48
+"629",117799,"1","30/09/2002",28,"Bac",17.990152758,"non","Non","normal",26,"Bac","normal","ovulation","non","primaire",48
+"630",117808,"0","01/10/2002",28,"Bac-",26.038781163,"non","Oui","anormal",25,"Bac","normal","ovulation","endom<e9>triose","primaire",24
+"631",117811,"0","02/10/2002",30,"Bac+",36.018436556,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",15
+"632",117815,"1","02/10/2002",28,"Bac-",22.642192972,"non","Non","azoo",32,"Bac-","normal","ovulation","non","secondaire",12
+"633",117818,"1","02/10/2002",32,"Bac+",26.672763298,"non","Non","anormal",31,"Bac+","normal","ovulation","non","secondaire",24
+"634",117852,"1","04/10/2002",35,"Bac-",19.157088123,"non","Non","normal",31,"Bac-","normal","ovulation","non","secondaire",96
+"635",117855,"0","09/12/2002",51,"Bac",31.377989166,"non","Non","azoo",39,"Bac-","normal","ovulation","non","secondaire",23
+"636",117869,"0","08/10/2002",30,"Bac+",25.727555214,"non","Non","anormal",31,"Bac+","normal","ovulation","autre","primaire",24
+"637",117870,"0","08/10/2002",48,"Bac+",25.605536332,"non","Oui","anormal",40,"Bac+","normal","ovulation","non","secondaire",24
+"638",117871,"1","08/10/2002",29,"Bac+",29.036737786,"autre","Oui","anormal",29,"Bac+","normal","ovulation","non","primaire",24
+"639",117875,"1","09/10/2002",18,"Bac-",26.365603029,"autre","Non","azoo",20,"Bac-","normal","ovulation","non","primaire",65
+"640",117876,"1","09/10/2002",38,"Bac+",26.583175803,"autre","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",15
+"641",117880,"1","09/10/2002",39,"Bac-",20.830703194,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",18
+"642",117888,"0","10/10/2002",34,"Bac+",24.835646457,"non","Oui","normal",39,"Bac+","normal","ovulation","non","secondaire",30
+"643",117897,"1","10/10/2002",28,"Bac-",24.91349481,"non","Non","anormal",30,"Bac-","normal","ovulation","non","secondaire",24
+"644",117909,"0","15/09/2004",32,"Bac+",25.249337205,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",48
+"645",117932,"0","17/10/2002",30,"Bac",24.691358025,"non","Oui","anormal",25,"Bac-","normal","ovulation","non","primaire",12
+"646",117939,"1","13/11/2002",38,"Bac+",23.355636915,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",16
+"647",117984,"0","30/10/2002",37,"Bac-",25.951557093,"non","Non","anormal",34,"Bac","normal","dysovulation","non","secondaire",72
+"648",118005,"1","06/11/2002",30,"Bac-",29.337411442,"non","Non","anormal",29,"Bac-","normal","ovulation","non","secondaire",30
+"649",118007,"0","12/12/2002",32,"Bac",38.75432526,"non","Non","anormal",28,"Bac","normal","ovulation","non","primaire",14
+"650",118012,"1","07/11/2002",39,"Bac-",23.529411765,"non","Non","anormal",31,"Bac-","normal","ovulation","non","primaire",36
+"651",118016,"1","08/11/2002",30,"Bac+",35.765943458,"non","Non","anormal",25,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"652",118023,"1","12/11/2002",27,"Bac-",26.12244898,"chimioth<e9>rapie , radioth<e9>rapie","Oui","azoo",26,"Bac","normal","ovulation","non","primaire",48
+"653",118025,"1","12/11/2002",37,"Bac+",21.952479339,"non","Non","anormal",34,"Bac+","anormal","ovulation","non","secondaire",24
+"654",118028,"0","13/11/2002",46,"Bac+",31.141868512,"autre","Non","anormal",37,"Bac+","anormal","anovulation","non","secondaire",30
+"655",118039,"0","14/11/2002",37,"Bac",24.163265306,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",72
+"656",118049,"1","18/11/2002",28,"Bac-",22.265625,"autre","Non","azoo",21,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","primaire",18
+"657",118050,"1","18/11/2002",38,"Bac+",26.82742078,"autre","Oui","anormal",28,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",24
+"658",118060,"1","19/11/2002",30,"Bac",28.73174689,"non","Oui","azoo",29,"Bac-","normal","ovulation","non","primaire",24
+"659",118063,"0","19/11/2002",39,"Bac+",11.830719308,"non","Non","anormal",37,"Bac+","normal","ovulation","non","secondaire",24
+"660",118068,"1","28/01/2003",28,"Bac",21.967120181,"non","Oui","anormal",25,"Bac","normal","ovulation","non","primaire",24
+"661",118090,"1","25/11/2002",41,"Bac+",20.199469764,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",15
+"662",118106,"1","26/11/2002",31,"Bac-",20.515086479,"non","Oui","anormal",33,"Bac","anormal","ovulation","non","primaire",12
+"663",118119,"0","28/11/2002",33,"Bac-",29.68495643,"non","Oui","anormal",31,"Bac-","normal","ovulation","non","primaire",12
+"664",118121,"1","28/11/2002",31,"Bac+",25.661152035,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",60
+"665",118125,"1","28/11/2002",27,"Bac-",21.224489796,"non","Non","normal",25,"Bac-","normal","ovulation","non","secondaire",30
+"666",118127,"0","21/11/2002",32,"Bac-",23.183391003,"non","Oui","anormal",27,"Bac-","anormal","ovulation","pb tubaire unilat<e9>ral","secondaire",24
+"667",118142,"1","14/04/2004",38,"Bac-",24.567474048,"non","Non","normal",32,"Bac","normal","ovulation","non","secondaire",60
+"668",118145,"0","02/12/2002",31,"Bac+",29.065926807,"non","Non","azoo",32,"Bac+","normal","ovulation","non","primaire",18
+"669",118149,"1","02/12/2002",41,"Bac-",19.607156612,"non","Non","azoo",29,"Bac","normal","ovulation","non","primaire",30
+"670",118150,"1","02/12/2002",29,"Bac-",26.729927495,"non","Non","azoo",27,"Bac","normal","ovulation","non","secondaire",84
+"671",118152,"0","03/12/2002",35,"Bac",25.725517401,"non","Non","anormal",32,"Bac-","normal","anovulation","non","primaire",72
+"672",118156,"0","04/12/2002",28,"Bac+",23.515579071,"autre","Non","normal",34,"Bac+","normal","ovulation","non","primaire",40
+"673",118158,"0","04/12/2002",34,"Bac-",24.386526444,"non","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",18
+"674",118164,"0","04/12/2002",36,"Bac-",23.054562464,"non","Non","anormal",25,"Bac-","normal","ovulation","non","primaire",24
+"675",118176,"1","20/01/2003",30,"Bac+",21.266540643,"non","Non","azoo",28,"Bac+","normal","ovulation","non","primaire",15
+"676",118195,"1","09/12/2002",35,"Bac-",25.401701323,"non","Oui","anormal",31,"Bac-","normal","ovulation","non","primaire",24
+"677",118203,"0","09/12/2002",27,"Bac-",24.122145775,"non","Non","anormal",36,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",30
+"678",118244,"1","18/12/2002",30,"Bac",25.102391333,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",12
+"679",118252,"1","19/12/2002",29,"Bac+",23.711844631,"non","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"680",118253,"0","19/12/2002",42,"Bac-",22.159108642,"non","Non","anormal",33,"Bac-","normal","anovulation","non","primaire",120
+"681",118256,"0","19/12/2002",37,"Bac+",39.889196676,"non","Non","anormal",37,"Bac+","normal","ovulation","non","secondaire",30
+"682",118258,"0","19/12/2002",30,"Bac-",21.971335857,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",36
+"683",118271,"1","20/12/2002",31,"Bac+",20.428357113,"non","Non","normal",30,"Bac+","normal","ovulation","non","primaire",12
+"684",118284,"1","07/01/2003",28,"Bac-",23.735308416,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",24
+"685",118288,"1","07/01/2003",33,"Bac-",26.511804065,"sinusites chroniques","Non","azoo",23,"Bac-","normal","ovulation","non","primaire",72
+"686",118338,"0","16/01/2003",44,"Bac-",26.472107438,"autre","Non","anormal",38,"Bac+","anormal","ovulation","non","primaire",6
+"687",118341,"1","16/01/2003",30,"Bac+",23.038752363,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",25
+"688",118345,"0","17/01/2003",30,"Bac+",24.691358025,"pathologies respiratoire chroniques","Non","anormal",29,"Bac+","normal","anovulation","non","primaire",18
+"689",118364,"1","23/01/2003",35,"Bac",25.029760996,"non","Non","anormal",25,"Bac-","normal","ovulation","non","primaire",30
+"690",118367,"0","23/01/2003",36,"Bac+",20.515086479,"non","Non","normal",39,"Bac-","normal","ovulation","non","secondaire",96
+"691",118380,"1","08/04/2003",34,"Bac+",22.275309917,"diab<e8>te","Non","anormal",29,"Bac+","normal","dysovulation","non","primaire",20
+"692",118389,"1","28/01/2003",31,"Bac+",22.992624444,"autre","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",6
+"693",118416,"1","03/02/2003",27,"Bac-",26.446280992,"non","Oui","azoo",23,"Bac+","normal","ovulation","non","primaire",12
+"694",118418,"1","03/02/2003",30,"Bac-",22.024322513,"non","Non","anormal",30,"Bac-","normal","ovulation","non","primaire",18
+"695",118422,"1","04/02/2003",28,"Bac",24.382372979,"autre","Non","azoo",30,"Bac-","normal","ovulation","non","primaire",30
+"696",118429,"1","04/09/2003",27,"Bac-",25.209201358,"non","Non","anormal",29,"Bac","normal","ovulation","non","primaire",24
+"697",118461,"0","10/02/2003",38,"Bac-",21.887076365,"diab<e8>te","Non","anormal",29,"Bac","normal","ovulation","non","secondaire",10
+"698",118469,"1","11/02/2003",33,"Bac+",25.359256128,"autre","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",18
+"699",118489,"0","13/02/2003",33,"Bac-",25.925925926,"non","Oui","azoo",30,"Bac","normal","ovulation","non","primaire",22
+"700",118492,"0","13/02/2003",29,"Bac",37.421898493,"autre","Non","normal",28,"Bac","normal","ovulation","non","secondaire",30
+"701",118495,"1","13/02/2003",33,"Bac",27.309968138,"autre","Non","normal",25,"Bac","normal","dysovulation","non","primaire",24
+"702",118506,"0","17/02/2003",30,"Bac-",22.343515593,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",17
+"703",118512,"1","17/02/2003",30,"Bac",23.836734694,"non","Oui","anormal",23,"Bac-","normal","ovulation","non","primaire",24
+"704",118525,"1","20/02/2003",36,"Bac-",27.774423379,"non","Non","azoo",30,"Bac-","normal","ovulation","non","primaire",8
+"705",118530,"1","20/02/2003",26,"Bac-",24.158817969,"autre","Non","anormal",23,"Bac","normal","ovulation","non","primaire",24
+"706",118534,"1","02/09/2003",30,"Bac-",24.977043159,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"707",118549,"1","25/02/2003",26,"Bac-",20.661157025,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",8
+"708",118552,"1","25/02/2003",33,"Bac-",22.052190183,"autre","Non","azoo",25,"Bac-","normal","dysovulation","non","primaire",30
+"709",118563,"1","27/02/2003",35,"Bac-",24.635368551,"non","Oui","anormal",31,"Bac-","normal","ovulation","non","primaire",20
+"710",118585,"0","03/03/2003",28,"Bac-",31.377989166,"non","Oui","anormal",35,"Bac-","normal","dysovulation","pb tubaire unilat<e9>ral","primaire",20
+"711",118592,"1","04/03/2003",33,"Bac-",21.971335857,"non","Non","normal",28,"Bac+","normal","dysovulation","non","secondaire",28
+"712",118601,"1","06/03/2003",30,"Bac-",27.636054422,"sinusites chroniques","Non","normal",28,"Bac","normal","ovulation","non","secondaire",12
+"713",118605,"1","06/03/2003",36,"Bac+",24.622960911,"non","Oui","anormal",38,"Bac+","normal","ovulation","non","primaire",30
+"714",118623,"1","10/03/2003",44,"Bac",23.374726077,"non","Non","normal",35,"Bac","anormal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"715",118627,"1","11/03/2003",38,"Bac-",24.9107674,"non","Non","anormal",33,"Bac-","anormal","ovulation","non","primaire",18
+"716",118630,"1","11/03/2003",47,"Bac",25.951557093,"non","Non","anormal",39,"Bac","normal","ovulation","non","secondaire",22
+"717",118676,"1","07/04/2003",27,"Bac",23.765432099,"autre","Non","anormal",25,"Bac-","normal","ovulation","non","primaire",18
+"718",118681,"0","07/04/2003",37,"Bac-",22.395413419,"non","Non","azoo",30,"Bac","normal","ovulation","non","primaire",24
+"719",118684,"0","08/04/2003",27,"Bac+",26.12244898,"sinusites chroniques","Non","azoo",28,"Bac+","anormal","ovulation","non","primaire",15
+"720",118686,"1","08/04/2003",32,"Bac+",26.880934989,"non","Non","anormal",32,"Bac+","normal","anovulation","non","primaire",36
+"721",118693,"1","09/04/2003",30,"Bac-",22.877405702,"autre","Non","normal",30,"Bac+","normal","ovulation","non","primaire",16
+"722",118699,"0","09/04/2003",22,"Bac-",23.986870345,"autre","Oui","anormal",28,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",27
+"723",118701,"0","09/04/2003",39,"Bac-",31.074158058,"autre","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",18
+"724",118703,"0","09/04/2003",38,"Bac-",24.30248706,"non","Non","anormal",37,"Bac-","normal","ovulation","non","primaire",30
+"725",118707,"1","10/04/2003",31,"Bac-",22.256908313,"non","Non","anormal",31,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","primaire",18
+"726",118709,"0","10/04/2003",35,"Bac-",26.722872521,"non","Non","normal",33,"Bac-","anormal","anovulation","non","secondaire",36
+"727",118716,"0","10/04/2003",29,"Bac",23.108434579,"non","Non","azoo",27,"Bac","normal","ovulation","non","primaire",36
+"728",118747,"1","14/04/2003",32,"Bac-",28.698979592,"non","Non","azoo",36,"Bac-","normal","ovulation","non","secondaire",18
+"729",118751,"0","14/04/2003",49,"Bac-",26.14927686,"autre","Non","anormal",42,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",18
+"730",118783,"0","22/04/2003",33,"Bac+",25.059307027,"autre","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",48
+"731",118790,"1","23/04/2003",36,"Bac-",26.643598616,"non","Non","anormal",28,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"732",118792,"0","23/04/2003",31,"Bac",26.234567901,"non","Oui","azoo",31,"Bac+","normal","ovulation","non","primaire",48
+"733",118795,"0","23/04/2003",22,"Bac-",24.82,"non","Non","anormal",20,"Bac-","normal","ovulation","non","primaire",36
+"734",118797,"0","23/04/2003",32,"Bac+",28.703703704,"autre","Non","azoo",35,"Bac","normal","ovulation","endom<e9>triose","secondaire",60
+"735",118806,"1","24/04/2003",26,"Bac-",28.081632653,"non","Non","anormal",28,"Bac","normal","ovulation","non","primaire",48
+"736",118808,"0","25/04/2003",27,"Bac-",19.817677368,"non","Non","azoo",31,"Bac","normal","ovulation","non","primaire",20
+"737",118810,"1","25/04/2003",29,"Bac-",23.388686558,"non","Non","anormal",27,"Bac","normal","ovulation","non","primaire",24
+"738",118828,"1","28/04/2003",31,"Bac-",25,"pathologies respiratoire chroniques","Non","anormal",32,"Bac-","normal","dysovulation","non","secondaire",42
+"739",118832,"0","29/04/2003",26,"Bac-",24.220226843,"non","Oui","anormal",21,"Bac+","anormal","ovulation","non","primaire",24
+"740",118837,"1","29/04/2003",33,"Bac+",23.991212857,"autre","Non","normal",37,"Bac+","normal","ovulation","non","primaire",30
+"741",118841,"1","29/04/2003",29,"Bac",21.383941996,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",18
+"742",118843,"1","30/04/2003",27,"Bac-",26.824457594,"autre","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",18
+"743",118853,"0","28/01/2004",33,"Bac+",25.925925926,"autre","Oui","azoo",39,"Bac+","anormal","dysovulation","non","secondaire",12
+"744",118858,"1","05/05/2003",34,"Bac+",23.547880691,"non","Non","anormal",29,"Bac+","normal","ovulation","autre","primaire",18
+"745",118861,"0","05/05/2003",37,"Bac+",25.605536332,"non","Non","anormal",38,"Bac+","normal","ovulation","non","secondaire",96
+"746",118863,"0","05/05/2003",52,"Bac-",28.055705787,"non","Non","normal",43,"Bac+","normal","ovulation","non","secondaire",24
+"747",118867,"0","05/05/2003",42,"Bac+",19.97440779,"non","Non","anormal",41,"Bac+","normal","dysovulation","non","secondaire",24
+"748",118870,"0","06/05/2003",50,"Bac+",22.309356409,"autre","Non","anormal",39,"Bac-","normal","ovulation","non","secondaire",18
+"749",118875,"1","06/05/2003",29,"Bac-",20.657540002,"non","Non","azoo",25,"Bac-","normal","ovulation","non","primaire",36
+"750",118877,"0","06/05/2003",41,"Bac",24.163265306,"non","Non","azoo",33,"Bac+","normal","ovulation","non","secondaire",12
+"751",118882,"0","07/05/2003",24,"Bac+",29.887694723,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"752",118899,"1","12/05/2003",44,"Bac+",24.307243559,"non","Oui","anormal",35,"Bac+","normal","ovulation","non","secondaire",30
+"753",118907,"1","14/05/2003",33,"Bac+",23.620287912,"autre","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",36
+"754",118909,"1","14/05/2003",32,"Bac-",24.021275987,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",2
+"755",118921,"0","11/06/2003",29,"Bac+",19.883853049,"non","Non","anormal",31,"Bac","normal","ovulation","non","primaire",60
+"756",118926,"0","19/05/2003",36,"Bac-",19.467401286,"non","Non","anormal",32,"Bac-","normal","ovulation","non","secondaire",24
+"757",118936,"1","19/05/2003",26,"Bac-",24.691358025,"autre","Non","anormal",29,"Bac","normal","ovulation","non","primaire",36
+"758",118946,"1","20/05/2003",35,"Bac-",24.419279021,"non","Non","anormal",34,"Bac-","normal","ovulation","non","secondaire",24
+"759",118947,"0","20/05/2003",29,"Bac+",23.388686558,"autre","Non","anormal",39,"Bac+","normal","ovulation","non","primaire",18
+"760",118948,"1","11/06/2003",38,"Bac-",27.117768595,"autre","Non","azoo",31,"Bac-","normal","ovulation","non","secondaire",48
+"761",118968,"0","06/01/2004",42,"Bac+",25.282569899,"autre","Non","anormal",40,"Bac-","normal","ovulation","non","secondaire",18
+"762",118983,"1","26/05/2003",33,"Bac+",23.67125363,"non","Non","normal",32,"Bac-","normal","anovulation","non","secondaire",30
+"763",118985,"0","26/05/2003",28,"Bac",27.6816609,"autre","Non","azoo",27,"Bac-","normal","dysovulation","non","primaire",40
+"764",118987,"1","27/05/2003",26,"Bac-",24.221453287,"non","Non","anormal",26,"Bac-","normal","ovulation","non","secondaire",21
+"765",118988,"1","26/05/2003",27,"Bac+",22.159108642,"non","Non","anormal",35,"Bac+","normal","ovulation","non","secondaire",18
+"766",118989,"0","26/05/2003",43,"Bac+",25.106332703,"non","Non","azoo",29,"Bac+","normal","ovulation","non","secondaire",36
+"767",118992,"1","26/05/2003",30,"Bac+",25.308641975,"non","Non","azoo",26,"Bac+","normal","ovulation","non","primaire",24
+"768",118996,"1","27/05/2003",37,"Bac-",29.296875,"autre","Non","anormal",33,"Bac-","normal","ovulation","pb tubaire bilat<e9>ral","secondaire",18
+"769",119001,"1","27/05/2003",34,"Bac+",21.158854167,"autre","Non","normal",32,"Bac+","normal","dysovulation","non","secondaire",24
+"770",119014,"0","02/06/2003",32,"Bac+",31.481481481,"autre","Non","anormal",30,"Bac-","normal","ovulation","non","primaire",36
+"771",119017,"1","02/06/2003",35,"Bac+",22.598140496,"autre","Non","anormal",37,"Bac","anormal","ovulation","non","primaire",48
+"772",119038,"1","05/06/2003",33,"Bac+",25.617283951,"autre","Oui","anormal",29,"Bac","normal","ovulation","non","primaire",48
+"773",119051,"0","06/06/2003",43,"Bac-",27.471707128,"autre","Non","anormal",26,"Bac+","normal","dysovulation","non","primaire",48
+"774",119064,"1","10/06/2003",30,"Bac-",21.303948577,"non","Non","anormal",31,"Bac","normal","ovulation","non","primaire",84
+"775",119066,"1","10/06/2003",30,"Bac+",25.503615702,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"776",119075,"1","11/06/2003",18,"Bac-",22.343515593,"autre","Non","anormal",16,"Bac-","normal","ovulation","non","secondaire",14
+"777",119100,"1","16/06/2003",32,"Bac-",24.82,"non","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"778",119113,"1","18/06/2003",30,"Bac+",23.291229956,"sinusites chroniques","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"779",119130,"1","23/06/2003",32,"Bac+",25.766837532,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",48
+"780",119135,"0","23/10/2003",39,"Bac+",29.262530538,"non","Non","normal",34,"Bac","anormal","dysovulation","non","primaire",36
+"781",119146,"1","26/06/2003",27,"Bac+",26.061679308,"non","Non","normal",28,"Bac+","normal","dysovulation","non","secondaire",18
+"782",119149,"1","26/06/2003",40,"Bac+",26.234567901,"non","Non","anormal",24,"Bac+","anormal","anovulation","non","primaire",18
+"783",119159,"1","30/06/2003",29,"Bac+",24.691358025,"autre","Oui","anormal",28,"Bac+","normal","ovulation","endom<e9>triose","primaire",24
+"784",119166,"0","30/06/2003",41,"Bac-",20.811654527,"non","Non","anormal",39,"Bac-","normal","ovulation","non","secondaire",36
+"785",119169,"0","01/07/2003",30,"Bac+",22.642192972,"non","Non","anormal",29,"Bac+","normal","dysovulation","non","primaire",18
+"786",119174,"1","02/07/2003",32,"Bac",27.755102041,"autre","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",6
+"787",119181,"1","02/07/2003",51,"Bac-",36.289737262,"autre","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",120
+"788",119193,"0","03/07/2003",31,"Bac-",24.337479719,"neurologique","Non","anormal",37,"Bac-","normal","ovulation","non","secondaire",36
+"789",119203,"1","07/07/2003",28,"Bac-",21.258503401,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",36
+"790",119220,"0","10/09/2003",28,"Bac-",23.458562375,"non","Non","normal",29,"Bac","normal","ovulation","non","primaire",24
+"791",119230,"0","09/07/2003",33,"Bac-",29.387755102,"autre","Non","azoo",26,"Bac+","normal","ovulation","non","secondaire",12
+"792",119234,"1","30/09/2003",34,"Bac+",21.048047612,"non","Non","normal",32,"Bac+","normal","ovulation","non","primaire",36
+"793",119249,"0","21/09/2004",44,"Bac+",24.801587302,"non","Non","normal",31,"Bac+","normal","ovulation","non","secondaire",48
+"794",119255,"1","15/07/2003",36,"Bac+",23.67125363,"non","Non","anormal",31,"Bac","normal","dysovulation","non","secondaire",33
+"795",119263,"1","16/07/2003",33,"Bac+",23.456790123,"non","Oui","azoo",26,"Bac-","normal","ovulation","non","primaire",30
+"796",119264,"1","16/07/2003",33,"Bac-",22.408178985,"non","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",12
+"797",119265,"1","16/07/2003",31,"Bac+",24.810964083,"non","Non","azoo",33,"Bac+","normal","ovulation","non","primaire",14
+"798",119284,"1","18/07/2003",28,"Bac",21.513858511,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"799",119310,"1","12/08/2003",29,"Bac+",29.065926807,"non","Oui","normal",34,"Bac+","normal","ovulation","non","primaire",33
+"800",119323,"1","19/08/2003",28,"Bac",28.483072917,"non","Non","normal",28,"Bac+","anormal","ovulation","non","primaire",24
+"801",119325,"1","20/08/2003",30,"Bac",21.329639889,"non","Non","azoo",21,"Bac+","normal","ovulation","non","primaire",24
+"802",119354,"1","26/08/2003",30,"Bac-",22.14532872,"pathologies respiratoire chroniques","Oui","azoo",30,"Bac-","normal","ovulation","non","primaire",60
+"803",119358,"0","26/08/2003",37,"Bac",20.281233099,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",36
+"804",119364,"1","09/10/2003",34,"Bac",21.366869143,"non","Non","anormal",31,"Bac","normal","ovulation","non","secondaire",24
+"805",119376,"0","28/08/2003",33,"Bac+",18.621386189,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"806",119379,"0","18/12/2003",34,"Bac+",22.265625,"non","Non","azoo",32,"Bac","normal","ovulation","non","primaire",2
+"807",119385,"1","08/09/2003",30,"Bac+",29.36576335,"non","Non","anormal",27,"Bac+","normal","anovulation","non","primaire",13
+"808",119387,"0","01/09/2003",32,"Bac-",23.529411765,"autre","Oui","azoo",26,"Bac+","normal","ovulation","non","primaire",24
+"809",119392,"0","01/09/2003",36,"Bac+",33.497685272,"non","Non","normal",35,"Bac","normal","ovulation","autre","secondaire",60
+"810",119419,"0","08/09/2003",41,"Bac-",27.131411791,"autre","Non","anormal",40,"Bac","normal","ovulation","non","secondaire",36
+"811",119430,"1","08/09/2003",24,"Bac",24.535123967,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",24
+"812",119438,"1","20/10/2003",44,"Bac+",25.142857143,"non","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",24
+"813",119453,"1","10/09/2003",42,"Bac",21.203105229,"non","Non","anormal",36,"Bac-","anormal","dysovulation","non","secondaire",36
+"814",119463,"1","11/09/2003",35,"Bac-",28.228386465,"non","Non","anormal",35,"Bac","normal","ovulation","non","secondaire",120
+"815",119466,"0","11/09/2003",34,"Bac+",28.344671202,"autre","Non","azoo",42,"Bac+","normal","ovulation","non","secondaire",36
+"816",119469,"1","12/09/2003",39,"Bac",27.769797951,"autre","Non","normal",32,"Bac+","normal","ovulation","non","primaire",36
+"817",119497,"1","13/11/2003",27,"Bac+",32.525951557,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",18
+"818",119499,"1","17/09/2003",33,"Bac+",20.281233099,"non","Non","azoo",33,"Bac+","normal","ovulation","non","primaire",36
+"819",119505,"1","17/09/2003",31,"Bac-",22.857142857,"non","Non","anormal",25,"Bac-","anormal","dysovulation","pb tubaire unilat<e9>ral","secondaire",60
+"820",119509,"1","18/09/2003",33,"Bac+",24.074074074,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",24
+"821",119522,"1","06/11/2003",36,"Bac-",23.510204082,"non","Oui","anormal",31,"Bac+","normal","ovulation","non","secondaire",48
+"822",119527,"0","22/09/2003",35,"Bac",22.093170054,"autre","Non","azoo",29,"Bac+","normal","ovulation","non","primaire",45
+"823",119528,"0","22/09/2003",47,"Bac",26.175194521,"autre","Non","anormal",42,"Bac-","normal","ovulation","non","primaire",96
+"824",119530,"1","22/09/2003",32,"Bac",24.622960911,"non","Non","azoo",34,"Bac","normal","ovulation","non","primaire",48
+"825",119532,"1","22/09/2003",29,"Bac+",22.790328973,"autre","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"826",119534,"0","28/05/2004",38,"Bac+",21.977351119,"non","Non","anormal",40,"Bac+","normal","ovulation","non","secondaire",18
+"827",119536,"0","23/09/2003",48,"Bac+",25.56495392,"non","Non","anormal",36,"Bac-","normal","ovulation","non","secondaire",40
+"828",119538,"1","20/01/2004",31,"Bac+",23.772179198,"autre","Non","normal",30,"Bac+","normal","ovulation","non","primaire",14
+"829",119553,"0","08/10/2003",41,"Bac",23.808690172,"non","Non","azoo",31,"Bac+","normal","ovulation","non","primaire",60
+"830",119562,"1","13/10/2003",38,"Bac",24.725182933,"autre","Non","anormal",36,"Bac+","normal","ovulation","non","secondaire",30
+"831",119567,"1","29/09/2003",32,"Bac-",22.598140496,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",48
+"832",119570,"0","24/11/2003",34,"Bac+",30.864197531,"cancer testis , chimioth<e9>rapie","Oui","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"833",119576,"1","22/09/2004",33,"Bac+",29.674421209,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",50
+"834",119577,"1","01/10/2003",40,"Bac+",24.088223117,"non","Non","normal",39,"Bac+","normal","ovulation","non","primaire",11
+"835",119586,"0","04/10/2003",38,"Bac-",25.592209981,"non","Oui","anormal",29,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",36
+"836",119594,"1","06/10/2003",33,"Bac+",23.836734694,"non","Non","normal",27,"Bac+","normal","anovulation","non","secondaire",24
+"837",119610,"1","09/10/2003",55,"Bac-",23.510204082,"non","Non","anormal",40,"Bac-","normal","ovulation","non","primaire",18
+"838",119617,"1","09/10/2003",36,"Bac-",24.337479719,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",6
+"839",119620,"1","09/10/2003",32,"Bac+",23.510204082,"non","Non","azoo",26,"Bac+","normal","ovulation","non","primaire",24
+"840",119622,"1","09/10/2003",33,"Bac+",28.596757128,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"841",119632,"1","13/10/2003",26,"Bac-",28.086260331,"non","Non","anormal",24,"Bac+","normal","ovulation","non","primaire",18
+"842",119633,"0","13/10/2003",32,"Bac-",25.059307027,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",48
+"843",119638,"1","13/10/2003",28,"Bac+",24.622960911,"non","Non","anormal",28,"Bac+","normal","anovulation","non","primaire",36
+"844",119644,"0","13/10/2003",45,"Bac-",28.400547964,"autre","Non","anormal",32,"Bac","normal","ovulation","non","primaire",70
+"845",119647,"1","14/10/2003",36,"Bac+",22.758306782,"non","Non","normal",29,"Bac+","normal","ovulation","non","primaire",33
+"846",119675,"0","17/11/2003",33,"Bac-",22.662708672,"non","Oui","azoo",32,"Bac+","normal","ovulation","non","primaire",80
+"847",119677,"1","21/10/2003",30,"Bac",22.920971074,"non","Oui","anormal",32,"Bac+","normal","ovulation","non","secondaire",24
+"848",119679,"1","21/10/2003",28,"Bac-",29.411764706,"non","Non","anormal",24,"Bac-","normal","ovulation","non","primaire",5
+"849",119691,"1","23/10/2003",30,"Bac-",24.691358025,"non","Non","anormal",32,"Bac+","anormal","ovulation","pb tubaire unilat<e9>ral","primaire",36
+"850",119693,"1","23/10/2003",33,"Bac-",22.204081633,"non","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",24
+"851",119701,"0","23/10/2003",45,"Bac+",28.086419753,"non","Non","anormal",37,"Bac+","normal","ovulation","non","primaire",48
+"852",119709,"1","28/10/2003",30,"Bac+",25.963047941,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",30
+"853",119714,"0","29/10/2003",40,"Bac+",21.736505253,"autre","Non","anormal",38,"Bac+","normal","ovulation","non","primaire",30
+"854",119715,"1","29/10/2003",30,"Bac-",30.679327977,"autre","Non","anormal",29,"Bac","normal","ovulation","non","primaire",66
+"855",119719,"0","29/10/2003",32,"Bac+",25.75515803,"non","Non","normal",31,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",48
+"856",119723,"1","27/10/2003",27,"Bac-",23.888440981,"non","Non","azoo",31,"Bac+","normal","ovulation","non","secondaire",8
+"857",119727,"0","17/11/2003",35,"Bac",22.222222222,"non","Non","anormal",38,"Bac+","normal","ovulation","non","secondaire",60
+"858",119733,"1","22/12/2003",35,"Bac+",26.14927686,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",18
+"859",119742,"0","03/11/2003",22,"Bac-",23.413111342,"non","Non","normal",34,"Bac-","normal","ovulation","non","secondaire",18
+"860",119749,"0","04/11/2003",30,"Bac-",22.14532872,"diab<e8>te","Non","azoo",27,"Bac+","normal","ovulation","non","primaire",38
+"861",119756,"0","06/11/2003",38,"Bac-",23.88946281,"non","Non","anormal",32,"Bac","normal","ovulation","non","secondaire",36
+"862",119777,"0","12/11/2003",26,"Bac+",21.971335857,"autre","Non","normal",24,"Bac+","normal","ovulation","non","primaire",11
+"863",119779,"1","12/11/2003",31,"Bac+",31.095278348,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"864",119787,"0","03/12/2003",29,"Bac-",22.395413419,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",24
+"865",119806,"1","17/11/2003",30,"Bac+",24.91349481,"sinusites chroniques","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",18
+"866",119810,"0","17/11/2003",30,"Bac-",27.636054422,"autre","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"867",119811,"1","17/11/2003",35,"Bac-",24.343809494,"non","Non","normal",32,"Bac","normal","dysovulation","non","secondaire",24
+"868",119821,"0","18/11/2003",30,"Bac-",23.120623596,"non","Non","azoo",26,"Bac-","normal","ovulation","non","secondaire",24
+"869",119833,"1","29/06/2004",54,"Bac-",25.390625,"non","Non","anormal",27,"Bac-","normal","ovulation","non","secondaire",18
+"870",119837,"1","24/11/2003",28,"Bac+",22.256908313,"non","Non","anormal",27,"Bac+","normal","ovulation","non","primaire",18
+"871",119838,"0","24/11/2003",39,"Bac-",25.711662075,"autre","Non","azoo",35,"Bac+","normal","ovulation","non","secondaire",30
+"872",119840,"1","24/11/2003",31,"Bac+",23.719609251,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","primaire",30
+"873",119844,"1","24/11/2003",57,"Bac+",27.764650284,"non","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",18
+"874",119849,"0","16/12/2003",38,"Bac+",26.840610468,"chimioth<e9>rapie","Non","azoo",39,"Bac+","normal","ovulation","non","secondaire",40
+"875",119866,"1","28/11/2003",31,"Bac+",28.378215191,"non","Non","anormal",27,"Bac","normal","ovulation","non","primaire",18
+"876",119871,"1","28/11/2003",36,"Bac+",35.417153931,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",6
+"877",119879,"0","01/12/2003",31,"Bac",24.82,"non","Oui","azoo",33,"Bac+","normal","ovulation","non","primaire",22
+"878",119889,"1","02/12/2003",33,"Bac+",23.245984784,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",36
+"879",119893,"1","14/01/2004",39,"Bac+",27.43484225,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",36
+"880",119906,"1","05/12/2003",39,"Bac+",22.598140496,"pathologies respiratoire chroniques","Non","anormal",37,"Bac+","normal","ovulation","non","secondaire",24
+"881",119907,"1","05/12/2003",32,"Bac",22.229061934,"non","Non","normal",36,"Bac-","normal","ovulation","non","primaire",6
+"882",119911,"0","08/12/2003",39,"Bac+",23.148148148,"sinusites chroniques","Non","anormal",41,"Bac+","normal","ovulation","autre","secondaire",84
+"883",119914,"1","11/02/2004",37,"Bac+",18.301924562,"non","Non","anormal",35,"Bac+","normal","ovulation","non","primaire",24
+"884",119924,"1","08/12/2003",29,"Bac-",22.91303307,"non","Non","anormal",28,"Bac+","anormal","dysovulation","non","primaire",18
+"885",119932,"1","09/12/2003",31,"Bac+",23.67125363,"non","Non","normal",30,"Bac+","normal","ovulation","non","secondaire",36
+"886",119953,"1","15/12/2003",34,"Bac",20.902385858,"autre","Non","normal",29,"Bac+","normal","ovulation","non","primaire",60
+"887",119972,"0","18/12/2003",37,"Bac-",26.12244898,"non","Non","azoo",32,"Bac-","normal","ovulation","non","secondaire",24
+"888",119973,"1","19/02/2004",48,"Bac+",25.306932047,"autre","Non","normal",33,"Bac+","anormal","ovulation","non","secondaire",36
+"889",119993,"0","22/12/2003",42,"Bac-",23.355636915,"autre","Non","azoo",36,"Bac-","normal","ovulation","non","primaire",12
+"890",119995,"0","22/12/2003",29,"Bac",20.199469764,"non","Oui","anormal",28,"Bac+","normal","ovulation","non","secondaire",18
+"891",119998,"0","23/12/2003",28,"Bac+",28.355387524,"non","Non","normal",28,"Bac","normal","ovulation","non","primaire",24
+"892",120029,"0","03/02/2004",26,"Bac",25.617283951,"non","Non","azoo",26,"Bac","normal","dysovulation","non","primaire",18
+"893",120034,"1","07/01/2004",32,"Bac-",24.21875,"chimioth<e9>rapie","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",3
+"894",120047,"1","12/03/2004",33,"Bac+",23.67125363,"sinusites chroniques","Non","normal",28,"Bac+","normal","dysovulation","non","primaire",24
+"895",120050,"1","08/01/2004",34,"Bac-",30.071168432,"non","Non","azoo",28,"Bac+","normal","ovulation","non","secondaire",60
+"896",141079,"0","12/01/2004",28,"Bac-",28.089010955,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",24
+"897",141082,"1","12/01/2004",29,"Bac-",21.736505253,"autre","Non","anormal",29,"Bac-","normal","ovulation","non","primaire",18
+"898",141096,"0","15/01/2004",35,"Bac-",20.006569321,"non","Non","anormal",36,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",120
+"899",141111,"1","07/04/2004",31,"Bac",20.515086479,"non","Non","normal",31,"Bac","anormal","ovulation","endom<e9>triose","primaire",18
+"900",141117,"0","20/01/2004",32,"Bac-",27.757487217,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",36
+"901",141119,"1","20/01/2004",31,"Bac",25.127830533,"non","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",36
+"902",141121,"0","20/01/2004",30,"Bac+",24.968009738,"non","Oui","anormal",29,"Bac","normal","ovulation","non","primaire",18
+"903",141134,"1","27/04/2004",32,"Bac+",21.20099137,"non","Non","normal",30,"Bac+","anormal","dysovulation","non","primaire",24
+"904",141147,"1","22/01/2004",30,"Bac-",21.799445105,"non","Non","azoo",25,"Bac-","normal","ovulation","non","primaire",36
+"905",141157,"0","26/01/2004",33,"Bac-",19.841269841,"autre","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",72
+"906",141160,"0","26/01/2004",36,"Bac+",24.618103775,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",60
+"907",141163,"1","24/03/2004",32,"Bac+",24.82,"autre","Oui","anormal",31,"Bac+","normal","ovulation","non","primaire",18
+"908",141167,"1","27/01/2004",24,"Bac-",29.340039628,"non","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",17
+"909",141169,"1","27/01/2004",34,"Bac-",28.734672057,"pathologies respiratoire chroniques","Oui","anormal",28,"Bac-","normal","ovulation","non","primaire",18
+"910",141191,"0","29/01/2004",43,"Bac-",22.275309917,"non","Non","normal",34,"Bac+","normal","ovulation","non","primaire",12
+"911",141205,"0","02/02/2004",28,"Bac+",22.343515593,"autre","Oui","anormal",29,"Bac+","normal","ovulation","non","secondaire",24
+"912",141212,"1","02/02/2004",33,"Bac+",23.355636915,"non","Non","normal",33,"Bac","normal","ovulation","non","primaire",12
+"913",141217,"1","02/02/2004",29,"Bac-",24.691358025,"autre","Non","azoo",26,"Bac-","normal","ovulation","non","primaire",48
+"914",141256,"1","10/02/2004",35,"Bac+",35.111238788,"sinusites chroniques","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",12
+"915",141262,"0","11/02/2004",33,"Bac",25.963047941,"non","Oui","anormal",34,"Bac","normal","ovulation","non","primaire",60
+"916",141263,"1","11/02/2004",34,"Bac+",24.391058839,"non","Non","anormal",32,"Bac+","normal","ovulation","non","secondaire",18
+"917",141264,"0","11/02/2004",33,"Bac+",24.755464316,"autre","Non","azoo",32,"Bac+","normal","ovulation","non","primaire",48
+"918",141267,"1","11/02/2004",32,"Bac+",25.617283951,"non","Non","anormal",32,"Bac+","anormal","dysovulation","non","primaire",12
+"919",141271,"0","12/02/2004",32,"Bac+",23.875432526,"non","Non","anormal",30,"Bac+","anormal","ovulation","non","secondaire",24
+"920",141273,"0","12/02/2004",43,"Bac+",21.967857556,"autre","Non","anormal",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"921",141276,"1","12/02/2004",28,"Bac+",30.026594984,"non","Oui","anormal",27,"Bac","normal","ovulation","non","primaire",18
+"922",141277,"1","12/02/2004",27,"Bac",27.471707128,"non","Non","anormal",24,"Bac-","normal","ovulation","non","primaire",24
+"923",141279,"0","12/02/2004",38,"Bac-",21.604938272,"non","Non","azoo",27,"Bac-","normal","ovulation","non","primaire",48
+"924",141286,"0","16/02/2004",37,"Bac+",23.7021621,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",18
+"925",141289,"1","02/03/2004",30,"Bac+",22.340297066,"non","Non","azoo",28,"Bac+","normal","ovulation","non","secondaire",24
+"926",141293,"1","18/02/2004",28,"Bac-",31.637396694,"autre","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",22
+"927",141300,"0","18/02/2004",27,"Bac+",23.291229956,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"928",141305,"1","19/02/2004",27,"Bac+",24.82,"non","Non","azoo",34,"Bac+","normal","ovulation","non","primaire",24
+"929",141306,"1","19/02/2004",25,"Bac-",24.489795918,"non","Non","anormal",23,"Bac","normal","ovulation","endom<e9>triose","primaire",14
+"930",141309,"0","19/02/2004",42,"Bac+",22.598140496,"non","Non","normal",29,"Bac+","normal","ovulation","non","primaire",48
+"931",141322,"1","23/02/2004",36,"Bac+",21.306818182,"autre","Non","anormal",31,"Bac+","normal","ovulation","non","primaire",29
+"932",141329,"1","23/02/2004",31,"Bac-",27.141582391,"non","Non","anormal",27,"Bac-","normal","ovulation","non","secondaire",60
+"933",141332,"1","24/02/2004",26,"Bac-",23.722810652,"non","Non","azoo",21,"Bac-","normal","ovulation","non","secondaire",12
+"934",141349,"0","06/07/2004",29,"Bac+",22.13673973,"non","Non","anormal",26,"Bac+","normal","anovulation","endom<e9>triose","primaire",18
+"935",141355,"0","28/05/2004",37,"Bac+",22.877405702,"non","Non","anormal",33,"Bac+","anormal","ovulation","non","secondaire",24
+"936",141358,"1","25/03/2004",49,"Bac+",22.460034351,"non","Non","anormal",32,"Bac+","anormal","anovulation","pb tubaire unilat<e9>ral","secondaire",12
+"937",141362,"1","01/03/2004",29,"Bac+",23.355636915,"non","Non","azoo",28,"Bac","normal","ovulation","non","primaire",18
+"938",141390,"1","03/03/2004",32,"Bac-",29.053287982,"autre","Non","anormal",33,"Bac-","normal","ovulation","non","primaire",48
+"939",141395,"1","04/03/2004",36,"Bac+",23.529411765,"autre","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",18
+"940",141396,"1","19/04/2004",28,"Bac+",22.598140496,"autre","Oui","normal",35,"Bac+","normal","ovulation","non","primaire",24
+"941",141398,"0","02/03/2004",33,"Bac-",30.930438076,"non","Non","anormal",33,"Bac+","normal","ovulation","non","primaire",24
+"942",141404,"1","04/03/2004",36,"Bac-",22.093170054,"non","Non","anormal",35,"Bac+","anormal","ovulation","non","primaire",18
+"943",141407,"0","05/03/2004",42,"Bac-",22.038567493,"non","Non","azoo",36,"Bac+","normal","ovulation","non","primaire",76
+"944",141418,"0","09/03/2004",34,"Bac",24.77209671,"autre","Non","anormal",36,"Bac-","anormal","dysovulation","non","secondaire",15
+"945",141422,"1","09/03/2004",32,"Bac+",19.918367347,"sinusites chroniques","Non","normal",33,"Bac","normal","ovulation","non","secondaire",24
+"946",141424,"1","10/03/2004",36,"Bac+",26.472107438,"autre","Non","anormal",35,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",24
+"947",141427,"0","10/03/2004",39,"Bac-",22.395413419,"non","Non","anormal",29,"Bac-","normal","ovulation","endom<e9>triose","primaire",20
+"948",141428,"1","10/03/2004",31,"Bac+",20.902385858,"non","Oui","anormal",27,"Bac+","normal","ovulation","non","secondaire",12
+"949",141451,"0","15/03/2004",47,"Bac+",22.642192972,"non","Non","anormal",39,"Bac","normal","ovulation","non","secondaire",18
+"950",141459,"0","16/03/2004",38,"Bac",24.543462381,"autre","Non","anormal",33,"Bac","normal","ovulation","non","primaire",48
+"951",141460,"0","16/03/2004",28,"Bac-",23.545706371,"autre","Non","anormal",28,"Bac-","normal","ovulation","non","secondaire",12
+"952",141466,"0","16/03/2004",37,"Bac-",24.489795918,"non","Non","anormal",32,"Bac","normal","ovulation","non","secondaire",40
+"953",141468,"1","16/06/2004",43,"Bac-",25.469387755,"non","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",36
+"954",141479,"0","18/03/2004",32,"Bac-",26.296566837,"non","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",48
+"955",141480,"1","18/03/2004",41,"Bac-",27.102040816,"non","Non","azoo",37,"Bac","normal","ovulation","non","secondaire",24
+"956",141482,"0","16/03/2004",37,"Bac-",22.77318641,"autre","Non","anormal",36,"Bac-","normal","dysovulation","non","secondaire",24
+"957",141489,"1","22/03/2004",35,"Bac-",25.605536332,"non","Non","normal",33,"Bac","normal","ovulation","non","secondaire",40
+"958",141495,"0","23/03/2004",28,"Bac+",30.094959825,"non","Non","anormal",30,"Bac","anormal","dysovulation","non","primaire",30
+"959",141496,"0","23/03/2004",34,"Bac+",26.234567901,"non","Non","anormal",37,"Bac+","normal","ovulation","non","secondaire",12
+"960",141511,"0","01/04/2004",26,"Bac",23.282031173,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",2
+"961",141514,"1","18/08/2004",29,"Bac-",21.258503401,"non","Non","normal",21,"Bac-","normal","ovulation","non","primaire",36
+"962",141518,"0","29/03/2004",30,"Bac",23.388686558,"autre","Non","anormal",25,"Bac","normal","ovulation","non","primaire",15
+"963",141521,"0","18/05/2004",29,"Bac-",19.369834711,"non","Oui","anormal",24,"Bac-","normal","dysovulation","endom<e9>triose","primaire",24
+"964",141522,"0","22/12/2004",32,"Bac-",24.618103775,"non","Non","anormal",20,"Bac","anormal","ovulation","non","primaire",24
+"965",141525,"1","29/03/2004",41,"Bac-",26.927437642,"non","Non","anormal",24,"Bac-","normal","anovulation","non","primaire",24
+"966",141530,"1","30/03/2004",33,"Bac-",18.726007303,"non","Non","anormal",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",15
+"967",141541,"0","16/04/2004",35,"Bac+",26.592669673,"non","Non","anormal",31,"Bac+","normal","ovulation","non","secondaire",24
+"968",141546,"1","31/03/2004",40,"Bac+",20.775623269,"non","Non","anormal",35,"Bac","normal","ovulation","non","secondaire",12
+"969",141552,"1","01/04/2004",29,"Bac",21.606648199,"non","Oui","anormal",31,"Bac","normal","ovulation","non","primaire",24
+"970",141558,"1","01/04/2004",24,"Bac-",24.91349481,"non","Non","anormal",21,"Bac+","normal","ovulation","non","primaire",9
+"971",141565,"1","30/01/2001",37,"Bac",28.666129177,"non","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",16
+"972",141575,"1","06/04/2004",30,"Bac+",24.569314372,"non","Non","anormal",29,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",13
+"973",141603,"1","14/04/2004",31,"Bac-",24.67550027,"non","Non","anormal",29,"Bac+","normal","dysovulation","non","primaire",30
+"974",141604,"1","14/04/2004",35,"Bac+",23.510204082,"non","Non","normal",35,"Bac+","normal","ovulation","non","secondaire",24
+"975",141606,"0","14/04/2004",42,"Bac+",21.952479339,"autre","Non","anormal",39,"Bac-","normal","ovulation","non","secondaire",41
+"976",141611,"0","08/07/2004",37,"Bac-",22.598140496,"non","Non","anormal",30,"Bac","normal","ovulation","non","primaire",24
+"977",141631,"0","19/04/2004",40,"Bac-",24.67550027,"non","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",24
+"978",141634,"0","19/04/2004",33,"Bac+",19.568236334,"non","Non","anormal",41,"Bac+","normal","ovulation","non","primaire",14
+"979",141640,"1","20/04/2004",34,"Bac+",21.066743273,"autre","Non","normal",35,"Bac+","normal","ovulation","non","secondaire",11
+"980",141643,"0","20/04/2004",41,"Bac-",23.529411765,"autre","Non","azoo",36,"Bac+","normal","ovulation","non","primaire",48
+"981",141645,"0","21/04/2004",61,"Bac+",25.503615702,"non","Non","azoo",32,"Bac+","normal","ovulation","non","secondaire",12
+"982",141653,"0","21/04/2004",31,"Bac",23.849776597,"non","Non","azoo",33,"Bac+","normal","ovulation","non","secondaire",52
+"983",141658,"0","06/07/2004",32,"Bac+",21.604938272,"non","Non","normal",32,"Bac+","anormal","dysovulation","non","primaire",24
+"984",141664,"1","23/04/2004",27,"Bac+",24.577867152,"non","Oui","azoo",29,"Bac","normal","ovulation","non","secondaire",36
+"985",141671,"1","26/04/2004",39,"Bac-",23.510204082,"autre","Non","anormal",34,"Bac+","normal","ovulation","non","secondaire",30
+"986",141673,"0","26/04/2004",51,"Bac+",22.052190183,"autre","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",12
+"987",141683,"0","27/04/2004",36,"Bac-",54.143210585,"autre","Non","azoo",33,"Bac+","normal","dysovulation","non","primaire",20
+"988",141707,"1","03/05/2004",28,"Bac+",24.187046493,"non","Non","anormal",32,"Bac","normal","ovulation","non","secondaire",45
+"989",141711,"1","17/06/2004",30,"Bac-",34.472852629,"non","Non","anormal",31,"Bac","normal","ovulation","non","primaire",22
+"990",141712,"1","30/04/2004",19,"Bac-",21.461936624,"non","Non","normal",28,"Bac-","normal","dysovulation","non","primaire",24
+"991",141726,"1","04/05/2004",34,"Bac+",23.183391003,"non","Oui","anormal",29,"Bac+","normal","ovulation","non","primaire",42
+"992",141728,"1","04/05/2004",39,"Bac+",22.981901752,"non","Oui","anormal",34,"Bac+","anormal","dysovulation","pb tubaire unilat<e9>ral","primaire",8
+"993",141766,"0","13/05/2004",27,"Bac",30.299204646,"non","Non","azoo",23,"Bac-","normal","ovulation","non","primaire",38
+"994",141768,"1","12/07/2004",44,"Bac-",24.816326531,"non","Non","anormal",37,"Bac+","normal","dysovulation","non","secondaire",24
+"995",141800,"1","17/08/2004",32,"Bac+",24.212293388,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",34
+"996",141812,"0","04/11/2004",34,"Bac-",29.700413223,"autre","Non","normal",31,"Bac+","normal","ovulation","non","primaire",36
+"997",141819,"1","18/10/2004",30,"Bac+",33.908420139,"autre","Oui","normal",30,"Bac+","normal","ovulation","non","primaire",60
+"998",141820,"0","26/05/2004",27,"Bac-",25.381468542,"non","Non","anormal",32,"Bac+","normal","anovulation","hydrosalpinx","secondaire",36
+"999",141825,"0","26/05/2004",27,"Bac+",23.374726077,"non","Non","anormal",31,"Bac-","normal","ovulation","non","primaire",24
+"1000",141830,"0","27/05/2004",29,"Bac+",22.857142857,"autre","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",18
+"1001",141853,"1","01/06/2004",36,"Bac-",31.19509484,"non","Non","anormal",26,"Bac-","normal","ovulation","non","primaire",12
+"1002",141854,"0","01/06/2004",38,"Bac",24.91349481,"non","Non","azoo",35,"Bac+","normal","ovulation","non","secondaire",30
+"1003",141862,"0","01/06/2004",38,"Bac+",25.217358576,"non","Non","anormal",35,"Bac","normal","dysovulation","non","secondaire",36
+"1004",141871,"1","03/06/2004",33,"Bac+",20.515086479,"non","Non","azoo",33,"Bac+","normal","ovulation","non","primaire",12
+"1005",141880,"1","04/06/2004",31,"Bac",25.727555214,"autre","Non","anormal",32,"Bac","normal","ovulation","non","secondaire",2
+"1006",141898,"0","08/06/2004",42,"Bac-",24.691358025,"autre","Non","anormal",37,"Bac+","anormal","dysovulation","non","secondaire",72
+"1007",141906,"0","09/06/2004",27,"Bac",21.461936624,"non","Non","anormal",27,"Bac+","anormal","anovulation","non","primaire",11
+"1008",141908,"0","09/06/2004",42,"Bac-",24.074074074,"non","Non","azoo",37,"Bac","normal","ovulation","non","secondaire",18
+"1009",141910,"0","09/06/2004",33,"Bac+",21.224489796,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",30
+"1010",141917,"0","10/06/2004",29,"Bac",20.679012346,"non","Non","anormal",33,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"1011",141933,"0","15/06/2004",32,"Bac+",22.038567493,"non","Non","anormal",29,"Bac","normal","ovulation","non","primaire",6
+"1012",141934,"0","15/06/2004",26,"Bac+",23.388686558,"non","Non","anormal",26,"Bac+","normal","ovulation","non","primaire",14
+"1013",141936,"1","15/06/2004",27,"Bac-",25.402816084,"non","Non","normal",23,"Bac-","normal","ovulation","non","primaire",24
+"1014",141938,"0","11/10/2004",34,"Bac+",21.87755102,"non","Non","anormal",34,"Bac+","normal","ovulation","non","primaire",12
+"1015",141957,"0","17/06/2004",36,"Bac+",24.489795918,"non","Non","normal",34,"Bac-","normal","ovulation","non","secondaire",36
+"1016",141961,"1","17/06/2004",28,"Bac-",24.535123967,"non","Oui","normal",28,"Bac-","normal","dysovulation","non","secondaire",14
+"1017",141965,"0","12/07/2004",43,"Bac-",27.6816609,"non","Oui","anormal",31,"Bac-","normal","ovulation","non","primaire",18
+"1018",141977,"0","21/06/2004",39,"Bac",22.992624444,"autre","Oui","anormal",33,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","primaire",12
+"1019",141978,"0","21/06/2004",38,"Bac-",20.811654527,"non","Non","anormal",34,"Bac","normal","ovulation","non","primaire",24
+"1020",141987,"0","22/06/2004",37,"Bac+",24.755464316,"non","Non","anormal",32,"Bac","normal","ovulation","non","primaire",70
+"1021",141988,"0","22/06/2004",29,"Bac",21.469150482,"non","Oui","anormal",34,"Bac-","normal","ovulation","non","secondaire",9
+"1022",141995,"0","30/06/2004",56,"Bac+",22.837370242,"non","Non","anormal",35,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",168
+"1023",142001,"0","24/06/2004",34,"Bac+",20.061728395,"non","Non","azoo",27,"Bac+","normal","ovulation","non","primaire",24
+"1024",142006,"1","07/12/2004",41,"Bac+",23.388686558,"autre","Non","anormal",39,"Bac+","normal","ovulation","non","primaire",12
+"1025",142014,"0","29/06/2004",30,"Bac",25.880570635,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",36
+"1026",142019,"1","29/06/2004",34,"Bac-",26.12244898,"non","Non","anormal",32,"Bac-","normal","ovulation","non","secondaire",60
+"1027",142040,"1","05/07/2004",27,"Bac-",22.16066482,"non","Oui","anormal",26,"Bac+","normal","ovulation","non","primaire",24
+"1028",142066,"1","04/10/2004",32,"Bac-",24.074074074,"non","Non","normal",33,"Bac-","normal","ovulation","non","primaire",24
+"1029",142070,"1","12/07/2004",36,"Bac-",21.798202395,"non","Non","normal",33,"Bac-","anormal","dysovulation","non","primaire",12
+"1030",142083,"0","13/07/2004",30,"Bac+",24.618103775,"non","Non","anormal",28,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","primaire",18
+"1031",142086,"1","13/07/2004",35,"Bac-",27.166919271,"non","Non","anormal",25,"Bac","normal","ovulation","non","secondaire",28
+"1032",142100,"0","03/12/2004",29,"Bac+",24.212293388,"non","Non","anormal",31,"Bac+","normal","dysovulation","non","primaire",17
+"1033",142110,"0","21/07/2004",47,"Bac",25.402816084,"autre","Non","azoo",36,"Bac+","normal","ovulation","non","secondaire",36
+"1034",142125,"0","23/09/2004",28,"Bac+",26.296566837,"autre","Oui","anormal",27,"Bac+","normal","anovulation","non","primaire",26
+"1035",142127,"1","21/12/2004",32,"Bac+",24.419279021,"autre","Non","normal",32,"Bac+","anormal","dysovulation","non","primaire",18
+"1036",142128,"1","18/10/2004",44,"Bac+",27.041644132,"non","Oui","anormal",40,"Bac","normal","ovulation","non","secondaire",96
+"1037",142142,"0","16/08/2004",44,"Bac-",32.249395324,"non","Non","azoo",39,"Bac","normal","ovulation","non","secondaire",36
+"1038",142152,"1","18/08/2004",34,"Bac-",20.061728395,"non","Non","anormal",27,"Bac","normal","ovulation","non","primaire",18
+"1039",142158,"1","18/08/2004",30,"Bac+",22.857142857,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",24
+"1040",142164,"1","18/08/2004",27,"Bac-",26.023048986,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",18
+"1041",142167,"1","20/08/2004",29,"Bac",24.82,"non","Oui","anormal",27,"Bac","normal","ovulation","non","primaire",36
+"1042",142177,"1","23/08/2004",35,"Bac-",27.748872702,"non","Non","normal",27,"Bac-","normal","ovulation","non","secondaire",36
+"1043",142179,"1","23/08/2004",29,"Bac",25.951557093,"autre","Non","anormal",39,"Bac-","normal","ovulation","non","primaire",18
+"1044",142183,"0","23/08/2004",32,"Bac+",30.873312035,"non","Non","anormal",32,"Bac+","anormal","ovulation","non","primaire",60
+"1045",142206,"0","26/08/2004",28,"Bac-",22.724403484,"non","Non","azoo",30,"Bac-","normal","ovulation","non","primaire",30
+"1046",142211,"1","10/11/2004",32,"Bac",20.305174834,"non","Non","normal",32,"Bac-","normal","ovulation","non","primaire",60
+"1047",142217,"1","31/08/2004",31,"Bac+",25.963047941,"autre","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",48
+"1048",142220,"0","31/08/2004",42,"Bac+",26.81359045,"autre","Non","anormal",36,"Bac-","normal","ovulation","non","primaire",118
+"1049",142223,"1","02/05/2005",28,"Bac+",28.834579099,"non","Non","normal",34,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",24
+"1050",142233,"1","10/11/2004",33,"Bac+",32.410037088,"non","Non","anormal",32,"Bac+","normal","dysovulation","non","primaire",18
+"1051",142244,"1","07/09/2004",33,"Bac-",23.120623596,"autre","Non","anormal",32,"Bac+","normal","anovulation","pb tubaire bilat<e9>ral","secondaire",64
+"1052",142251,"0","08/09/2004",41,"Bac-",26.277285079,"non","Non","azoo",41,"Bac-","normal","ovulation","non","primaire",12
+"1053",142253,"1","08/09/2004",34,"Bac-",21.604938272,"non","Non","anormal",29,"Bac-","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"1054",142254,"1","08/09/2004",26,"Bac",28.73174689,"non","Non","normal",34,"Bac-","normal","ovulation","non","secondaire",18
+"1055",142271,"1","03/12/2004",43,"Bac+",24.691358025,"non","Non","anormal",37,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"1056",142272,"1","14/09/2004",25,"Bac-",23.849776597,"autre","Non","normal",27,"Bac-","normal","ovulation","non","primaire",18
+"1057",142275,"0","15/09/2004",29,"Bac",27.748872702,"non","Non","anormal",35,"Bac-","normal","ovulation","non","primaire",24
+"1058",142279,"1","15/09/2004",26,"Bac",26.423569824,"non","Non","azoo",22,"Bac","normal","ovulation","non","primaire",18
+"1059",142289,"0","16/12/2004",35,"Bac+",30.350329518,"non","Non","anormal",28,"Bac+","normal","ovulation","non","secondaire",30
+"1060",142302,"0","17/09/2004",23,"Bac-",24.82,"non","Non","anormal",20,"Bac-","normal","ovulation","non","primaire",24
+"1061",142304,"1","21/10/2004",39,"Bac+",23.986870345,"non","Non","normal",38,"Bac","normal","ovulation","endom<e9>triose","secondaire",30
+"1062",142305,"1","14/12/2004",27,"Bac",23.991212857,"non","Non","azoo",30,"Bac","normal","ovulation","non","primaire",24
+"1063",142315,"1","20/09/2004",31,"Bac-",24.151672503,"non","Non","anormal",27,"Bac","normal","ovulation","non","primaire",42
+"1064",142319,"1","21/09/2004",34,"Bac+",22.14532872,"autre","Oui","anormal",30,"Bac+","normal","ovulation","non","primaire",24
+"1065",142328,"1","21/09/2004",29,"Bac+",22.265625,"chimioth<e9>rapie","Non","azoo",28,"Bac+","normal","ovulation","non","primaire",11
+"1066",142331,"1","22/09/2004",30,"Bac+",21.296296296,"non","Non","anormal",28,"Bac+","normal","ovulation","non","primaire",24
+"1067",142335,"1","22/09/2004",26,"Bac",29.832230624,"non","Non","anormal",26,"Bac-","anormal","anovulation","non","primaire",24
+"1068",142340,"1","23/09/2004",32,"Bac-",22.309356409,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",36
+"1069",142342,"0","23/09/2004",39,"Bac",29.352354501,"non","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",15
+"1070",142344,"0","23/09/2004",28,"Bac-",22.491349481,"non","Non","azoo",35,"Bac","normal","ovulation","non","primaire",24
+"1071",142351,"1","24/09/2004",37,"Bac-",27.131411791,"non","Non","anormal",30,"Bac","normal","ovulation","non","secondaire",5
+"1072",142354,"0","24/09/2004",29,"Bac",22.675736961,"non","Non","azoo",22,"Bac-","normal","ovulation","non","secondaire",36
+"1073",142371,"1","01/12/2004",27,"Bac-",25.249337205,"non","Non","normal",24,"Bac","normal","ovulation","non","secondaire",18
+"1074",142381,"0","30/09/2004",29,"Bac-",26.12244898,"non","Non","anormal",33,"Bac-","normal","ovulation","non","secondaire",24
+"1075",142387,"0","04/10/2004",23,"Bac-",22.837370242,"non","Non","azoo",22,"Bac-","normal","ovulation","non","primaire",15
+"1076",142389,"0","04/10/2004",43,"Bac",26.555965935,"autre","Non","anormal",31,"Bac-","normal","ovulation","non","secondaire",50
+"1077",142391,"0","04/10/2004",28,"Bac",19.623233909,"non","Non","anormal",27,"Bac-","anormal","ovulation","non","secondaire",24
+"1078",142402,"0","05/10/2004",43,"Bac+",26.014568158,"non","Non","anormal",40,"Bac","normal","ovulation","non","secondaire",20
+"1079",142428,"1","07/10/2004",45,"Bac-",24.535123967,"non","Non","anormal",30,"Bac","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",26
+"1080",142438,"1","11/10/2004",38,"Bac+",24.724520009,"non","Non","anormal",38,"Bac+","normal","ovulation","non","primaire",48
+"1081",142440,"0","11/10/2004",31,"Bac+",23.735308416,"non","Non","anormal",32,"Bac+","normal","ovulation","non","primaire",24
+"1082",142445,"1","11/10/2004",35,"Bac-",24.391058839,"non","Non","anormal",32,"Bac","normal","ovulation","non","primaire",24
+"1083",142447,"1","11/10/2004",36,"Bac-",24.82,"non","Non","anormal",24,"Bac-","normal","ovulation","non","secondaire",48
+"1084",142449,"1","11/10/2004",32,"Bac-",29.068773298,"autre","Non","azoo",28,"Bac-","normal","ovulation","non","secondaire",12
+"1085",142451,"1","11/10/2004",40,"Bac+",18.017485822,"non","Non","normal",33,"Bac+","normal","ovulation","non","primaire",48
+"1086",142467,"1","14/10/2004",31,"Bac+",21.604938272,"autre","Non","anormal",32,"Bac+","anormal","ovulation","pb tubaire unilat<e9>ral","primaire",18
+"1087",142481,"1","21/12/2004",33,"Bac+",24.816326531,"non","Non","azoo",34,"Bac+","normal","ovulation","non","primaire",36
+"1088",142493,"1","20/10/2004",32,"Bac+",22.857142857,"non","Non","anormal",30,"Bac+","normal","ovulation","non","primaire",27
+"1089",142509,"1","21/10/2004",50,"Bac",29.263340201,"non","Non","anormal",38,"Bac-","normal","ovulation","non","secondaire",36
+"1090",142517,"0","25/10/2004",38,"Bac-",38.295657347,"non","Non","anormal",35,"Bac-","anormal","ovulation","non","primaire",60
+"1091",142518,"1","25/10/2004",45,"Bac-",17.959183673,"sinusites chroniques","Non","anormal",31,"Bac+","anormal","ovulation","non","secondaire",61
+"1092",142521,"0","25/10/2004",44,"Bac-",26.315789474,"autre","Non","anormal",39,"Bac-","normal","ovulation","non","secondaire",160
+"1093",142522,"0","25/10/2004",27,"Bac",20.957274202,"non","Non","anormal",32,"Bac","normal","ovulation","non","primaire",24
+"1094",142525,"1","26/10/2004",49,"Bac-",25.94548396,"diab<e8>te","Non","azoo",34,"Bac-","anormal","ovulation","non","secondaire",22
+"1095",142526,"0","26/10/2004",43,"Bac-",24.535123967,"autre","Non","anormal",30,"Bac+","normal","ovulation","non","secondaire",36
+"1096",142536,"1","28/10/2004",30,"Bac-",27.358845457,"non","Non","anormal",40,"Bac-","normal","ovulation","non","primaire",24
+"1097",142540,"1","28/10/2004",32,"Bac+",26.296566837,"non","Non","normal",28,"Bac+","normal","ovulation","non","primaire",14
+"1098",142549,"1","02/11/2004",28,"Bac+",25.180785124,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",48
+"1099",142552,"1","03/11/2004",37,"Bac-",21.604938272,"non","Non","normal",33,"Bac-","anormal","dysovulation","non","primaire",48
+"1100",142575,"0","08/11/2004",27,"Bac-",32.928719008,"non","Non","anormal",28,"Bac-","normal","ovulation","non","primaire",24
+"1101",142577,"0","08/11/2004",32,"Bac+",29.860551226,"non","Non","normal",37,"Bac+","normal","ovulation","non","primaire",24
+"1102",142586,"0","09/11/2004",47,"Bac",24.82,"non","Non","azoo",32,"Bac-","normal","ovulation","non","secondaire",12
+"1103",142602,"0","10/11/2004",30,"Bac-",22.862534475,"non","Oui","anormal",30,"Bac-","normal","ovulation","non","primaire",84
+"1104",142618,"0","15/11/2004",30,"Bac-",26.12244898,"non","Non","anormal",24,"Bac-","normal","ovulation","non","primaire",24
+"1105",142623,"1","15/11/2004",37,"Bac-",22.837370242,"autre","Non","anormal",28,"Bac-","normal","ovulation","autre","primaire",12
+"1106",142657,"1","23/11/2004",37,"Bac-",24.02380867,"autre","Non","anormal",34,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","primaire",46
+"1107",142669,"0","15/12/2004",29,"Bac-",24.382716049,"non","Non","anormal",29,"Bac","normal","ovulation","non","primaire",18
+"1108",142675,"0","24/11/2004",28,"Bac-",31.020408163,"autre","Non","normal",32,"Bac-","normal","ovulation","non","primaire",14
+"1109",142698,"0","29/11/2004",34,"Bac",30.864197531,"non","Oui","anormal",40,"Bac-","normal","ovulation","non","secondaire",24
+"1110",142700,"1","30/11/2004",36,"Bac-",24.691358025,"non","Non","normal",29,"Bac","normal","ovulation","non","secondaire",6
+"1111",142705,"0","01/12/2004",31,"Bac+",26.171875,"non","Non","anormal",31,"Bac+","anormal","ovulation","non","primaire",30
+"1112",142707,"1","01/12/2004",34,"Bac-",26.309016558,"non","Oui","anormal",29,"Bac+","normal","ovulation","non","primaire",30
+"1113",142716,"1","02/12/2004",27,"Bac",25.826446281,"non","Non","azoo",26,"Bac+","normal","ovulation","non","primaire",12
+"1114",142718,"1","02/12/2004",32,"Bac",24.221453287,"autre","Non","azoo",35,"Bac+","normal","ovulation","non","primaire",48
+"1115",142720,"0","03/12/2004",33,"Bac-",27.173913043,"non","Oui","azoo",39,"Bac+","normal","dysovulation","non","secondaire",48
+"1116",142723,"0","03/12/2004",45,"Bac+",20.761245675,"autre","Non","azoo",40,"Bac+","normal","ovulation","non","secondaire",12
+"1117",142728,"1","30/08/2004",34,"Bac",23.828125,"non","Non","anormal",30,"Bac-","anormal","anovulation","non","primaire",120
+"1118",142733,"0","07/12/2004",29,"Bac+",27.45865421,"autre","Non","anormal",27,"Bac+","normal","ovulation","non","secondaire",30
+"1119",142734,"0","07/12/2004",32,"Bac-",27.757487217,"autre","Non","anormal",30,"Bac","normal","dysovulation","non","primaire",54
+"1120",142738,"0","08/12/2004",36,"Bac",25.469387755,"non","Non","anormal",26,"Bac-","normal","ovulation","autre","secondaire",24
+"1121",142748,"0","09/12/2004",32,"Bac+",20.589665132,"non","Non","normal",31,"Bac+","normal","ovulation","non","primaire",36
+"1122",142766,"0","13/12/2004",46,"Bac+",26.570305027,"non","Non","anormal",33,"Bac+","normal","ovulation","non","secondaire",24
+"1123",142771,"0","14/12/2004",43,"Bac-",26.643598616,"autre","Non","anormal",38,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",12
+"1124",142774,"1","15/12/2004",35,"Bac+",25.510204082,"sinusites chroniques","Non","azoo",36,"Bac+","normal","ovulation","pb tubaire bilat<e9>ral","primaire",24
+"1125",142785,"0","16/12/2004",32,"Bac+",23.781212842,"non","Non","normal",32,"Bac+","normal","ovulation","pb tubaire unilat<e9>ral","secondaire",24
+"1126",142798,"0","20/12/2004",27,"Bac",25.864512472,"non","Non","anormal",26,"Bac","normal","ovulation","non","primaire",24
+"1127",142799,"1","21/12/2004",31,"Bac-",25.351541374,"autre","Non","azoo",25,"Bac-","normal","ovulation","non","primaire",21
+"1128",142804,"1","21/12/2004",32,"Bac+",21.87755102,"non","Non","anormal",29,"Bac+","normal","ovulation","non","primaire",36
+"1129",142806,"1","22/12/2004",27,"Bac+",24.457593688,"non","Oui","anormal",32,"Bac+","normal","ovulation","non","primaire",18
+"1130",142807,"1","21/12/2004",36,"Bac+",38.973922902,"non","Non","normal",33,"Bac-","normal","ovulation","non","secondaire",36
+"1131",142814,"0","27/12/2004",31,"Bac+",23.054562464,"autre","Non","normal",31,"Bac+","normal","ovulation","non","secondaire",60
