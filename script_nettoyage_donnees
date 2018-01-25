@@ -1,0 +1,38 @@
+###traitement des NA
+
+couples2 <- couples_string_NA
+
+couples2$patho_f[couples2$patho_f == 'NA']<-'non' # change les 'NA' en 'non' pour la variable patho
+couples2$bh_f[couples2$bh_f == 'NA']<-'normal'
+couples2$ct_f[couples2$bh_f == 'normal' & couples2$ct_f=='NA']<- 'ovulation' #change les 'NA' en 'ovulation' de la varibale ct_f si la variable bh_f = normal 
+couples2$dconception[couples2$dconception == 'NA']<- '01/06/2009' # concat�ne les variables ddn et dconception (variable ddn_dconception)
+couples2$conception_ddn<-couples2$dconception #on rajoute la variable ddn_dconception
+
+couples2$diplome_f[couples2$diplome_f=='NA']<-'Bac+'
+couples2$diplome_h[couples2$diplome_h=='NA']<-'Bac+'
+
+couples2$age_f[couples2$age_f=='NA'] <- '31'
+couples2$bmi_h[couples2$bmi_h=='NA'] <- '24.82'
+
+
+v1 <- vector("character",28)
+v1[1:9] = rep("anovulation",9)
+v1[10:28]= rep("dysovulation",19)
+
+for (i in 1:1131){
+  if (couples2$ct_f[i] == 'NA'){
+    couples2$ct_f[i] = sample(v1,replace = TRUE)
+  }
+} 
+
+
+###conversion des formats des donn�es
+couples2$age_f<-as.numeric(couples2$age_f)
+couples2$bmi_h<- as.numeric(couples2$bmi_h)
+couples2$enfant <- factor(couples2$enfant)
+
+couples2$conception_ddn<- as.Date(couples2$conception_ddn, "%d/%m/%Y")
+
+#Supression des variables obsol�tes
+couples2 = couples2[c(2:4, 7:19)]
+
